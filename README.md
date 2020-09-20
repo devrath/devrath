@@ -6,7 +6,9 @@
 
 - 🌱 I’m currently Working and learning **Android, Flutter**
 
-- 📝 I regulary write articles on [https://devrathblogs.blogspot.com/](https://devrathblogs.blogspot.com/)
+- 📝 I contribute to opensource on stackoverflow [Stackoverflow](https://stackoverflow.com/users/1083093/devrath)
+
+- 📝 I regulary write articles on [Blogger](https://devrathblogs.blogspot.com/)
 
 - 💬 Ask me about **Android, kotlin, Java, Dart**
 
