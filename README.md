@@ -18,7 +18,7 @@
 
 - 📝 [My Global stackoverflow Ranking](https://stackexchange.com/leagues/1/alltime/stackoverflow/2008-07-31/1083093?sort=reputationchange#1083093)
 
-- 📝 I regulary write articles on [Blogger](https://devrathblogs.blogspot.com/)
+- 📝 I write articles on [Blogger](https://devrathblogs.blogspot.com/)
 
 - 💬 Ask me about **Android, kotlin, Java, Dart**
 
