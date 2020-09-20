@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Android Engineer</h3>
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/></p>
 
-- 🌱 I’m currently learning **Android, Flutter**
+- 🌱 I’m currently Working and learning **Android, Flutter**
 
 - 📝 I regulary write articles on [https://devrathblogs.blogspot.com/](https://devrathblogs.blogspot.com/)
 
