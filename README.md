@@ -1,6 +1,6 @@
-<p align="center"><img src="https://github.com/devrath/devrath/blob/master/welcome.png?raw=true" height="200" /></p>
+<p align="center"><img src="https://github.com/devrath/devrath/blob/master/welcome.png?raw=true" height="150" /></p>
 
-<h1 align="center">Hi 👋, I'm Devrath</h1>
+<h1 align="center">Hi, I'm Devrath</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/></p>
 
