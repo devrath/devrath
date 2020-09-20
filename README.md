@@ -12,8 +12,6 @@
 
 - 💬 Ask me about **Android, kotlin, Java, Dart**
 
-- 📫 How to reach me **devrath.dev595@gmail.com**
-
 
 <p align="center"><img src="https://github.com/devrath/devrath/blob/master/android-kotlin.gif"/></p>
 
