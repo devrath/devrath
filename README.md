@@ -1,5 +1,3 @@
-<p align="center"><img src="https://github.com/devrath/devrath/blob/master/welcome.png?raw=true" height="150" /></p>
-
 <h1 align="center">Hi, I'm Devrath</h1>
 
 <p align="center"><a href="https://twitter.com/devrath_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="devrath_dev" height="30" width="30" /></a>
