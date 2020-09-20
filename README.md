@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/PatilShreyas/PatilShreyas/blob/master/welcome.png?raw=true" height="200" /></p>
+<p align="center"><img src="https://github.com/devrath/devrath/blob/master/welcome.png?raw=true" height="200" /></p>
 
 <h1 align="center">Hi 👋, I'm Devrath</h1>
 <h3 align="center">A passionate Software Engineer</h3>
