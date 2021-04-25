@@ -31,19 +31,21 @@ I am a passionate Software Engineer. I’m currently Working and learning **Andr
 
 ---
 
-#### ``Live Projects``
+#### ``Playstore``
 
-* [MPL](https://www.mpl.live/)
-* [DealerSocket](https://play.google.com/store/apps/details?id=com.dealersocket.crm&hl=en_IN&gl=US)
-* [Disney Cruise Line Navigator](https://play.google.com/store/apps/details?id=com.disney.cruise.sept_goo&hl=en_US)
-* [Doctor 24*7](https://play.google.com/store/apps/details?id=com.doctor247.patient&hl=en_US)
-* [GalileoOne](https://en.cybernetyx.com/galileoonepage/)
-* [Quriosity](https://en.cybernetyx.com/quriositypage/)
-* [Eyerispro](https://en.cybernetyx.com/eyerisproppage/)
-* [Kneura](https://play.google.com/store/apps/details?id=com.cnx.kneurateach&hl=en_US)
-* [Kalimalock](https://www.youtube.com/watch?v=_ulqN586tgk)
-* [ThisForThat](https://play.google.com/store/apps/details?id=com.sparklin.tft&hl=en_US)
-* [ShoppersStop](https://play.google.com/store/apps/details?id=shoppersstop.shoppersstop&hl=en_US)
+| Projects | Description |
+| --- | --- |
+| [MPL](https://www.mpl.live/) | Mobile Premier League is a mobile e-Sports platform |
+| [DealerSocket](https://play.google.com/store/apps/details?id=com.dealersocket.crm&hl=en_IN&gl=US) | The power and ease of DealerSocket’s Mobile CRM provides the best of socket right in your pocket. Search and add customers, scan a driver's license or VIN, find inventory, send a follow-up text or video, and complete daily tasks from anywhere |
+| [Disney Cruise Line Navigator](https://play.google.com/store/apps/details?id=com.disney.cruise.sept_goo&hl=en_US) | Helps in navigating in the disney ships to enhanse your experience, finding your way around the ship, plan your activities in the ship, organize your day from shows to shopping, explore activities and entertainment and many more|
+| [Doctor 24*7](https://play.google.com/store/apps/details?id=com.doctor247.patient&hl=en_US) | A hassle free experience with no prior appointment, connect directly with the doctors online. |
+| [GalileoOne](https://en.cybernetyx.com/galileoonepage/) | Galileo One is a clip-on, wireless interactive device that can turn any flat panel or display into a full-blown touch-interactive display |
+| [Quriosity](https://en.cybernetyx.com/quriositypage/) | Quriosity, a 4K-UHD Interactive Panel with built-in teaching tools and a classroom management system, is a perfect replacement for traditional blackboards and IWBs in schools|
+| [Eyerispro](https://en.cybernetyx.com/eyerisproppage/) | EyeRIS Pro is an advanced surface-independent wireless touch interactive teaching device. It can convert any flat surface such as a wall or dry-erase whiteboard into Touch enabled Digital Whiteboard|
+| [Kneura](https://play.google.com/store/apps/details?id=com.cnx.kneurateach&hl=en_US) | Start blending traditional and modern learning and teaching methodologies with Kneura, which is a highly secure blended learning platform that enables teachers to set up and manage online curriculum and students can meet teachers in a virtual environment, share knowledge, chat and access earning resources |
+| [Kalimalock](https://www.youtube.com/watch?v=_ulqN586tgk) | Its an application developed for samsung, it enables children to learn arabic language by using the lockscreen to draw patterns and educating children about the pattern everytime child opens the device using the lock screen|
+| [ThisForThat](https://play.google.com/store/apps/details?id=com.sparklin.tft&hl=en_US) | This for That is a social fashion swapping platform for women. Here, you can take gorgeous pieces from your closet and swap them for equally stunning pieces from someone else’s closet, without any money changing hands. It's the most fun and awesome way to score some jaw dropping fashion for your closet!|
+| [ShoppersStop](https://play.google.com/store/apps/details?id=shoppersstop.shoppersstop&hl=en_US) | Shop from a wide range of options in men’s, women’s and kids’ apparel, fashion accessories, luxurious watches, cosmetics, stylish footwear, furnishing, home décor and more. And get them delivered to your doorstep. |
 
 
 <p align="center"><img src="https://github.com/devrath/devrath/blob/master/android-kotlin.gif"/></p>
