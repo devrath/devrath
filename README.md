@@ -47,6 +47,21 @@ I am a passionate Software Engineer. I’m currently Working and learning **Andr
 | [ThisForThat](https://play.google.com/store/apps/details?id=com.sparklin.tft&hl=en_US) | This for That is a social fashion swapping platform for women. Here, you can take gorgeous pieces from your closet and swap them for equally stunning pieces from someone else’s closet, without any money changing hands. It's the most fun and awesome way to score some jaw dropping fashion for your closet!|
 | [ShoppersStop](https://play.google.com/store/apps/details?id=shoppersstop.shoppersstop&hl=en_US) | Shop from a wide range of options in men’s, women’s and kids’ apparel, fashion accessories, luxurious watches, cosmetics, stylish footwear, furnishing, home décor and more. And get them delivered to your doorstep. |
 
+#### ``Written content``
+
+| Title | Publication |
+| --- | --- |
+| [What are co-routine jobs](https://medium.com/@devrath.dev595/what-are-co-routine-jobs-6313b0abacb9) | Medium |
+| [What are co-routine dispatchers](https://medium.com/@devrath.dev595/what-are-co-routine-dispatchers-cafd4adae800) | Medium |
+| [What is Co-Routine Scoping](https://medium.com/@devrath.dev595/what-is-co-routine-scoping-792a2552d067) | Medium |
+| [What are Coroutines](https://medium.com/@devrath.dev595/what-are-coroutines-f85b20d4981d) | Medium |
+| [Understanding Context in Android](https://medium.com/@devrath.dev595/understanding-context-in-android-15cbb6cc9b49) | Medium |
+| [Exploring Kotlin scope functions](https://medium.com/@devrath.dev595/explaining-kotlin-scope-functions-277e597b6b31) | Medium |
+| [Elvis Operator explained in Kotlin](https://medium.com/@devrath.dev595/elvis-operator-explained-in-kotlin-1d1a0ebf8307) | Medium |
+| [How to setup ktlint for your project in android](https://medium.com/@devrath.dev595/how-to-setup-ktlint-for-your-project-in-android-ea7093ea908b) | Medium |
+
+
+
 
 <p align="center"><img src="https://github.com/devrath/devrath/blob/master/android-kotlin.gif"/></p>
 <p align="center"><img src="https://pbs.twimg.com/profile_images/1164525925242986497/N5_DCXYQ_400x400.jpg" alt="android" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/></p>
