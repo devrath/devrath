@@ -15,7 +15,7 @@ I am a passionate Software Engineer. I’m currently Working and learning **Andr
 
 
 | Projects in Github | Description |
-| --- | --- | --- |
+| --- | --- |
 | [DroidFoodApplication](https://github.com/devrath/DroidFoodApplication) | Description |
 | [DroidDi](https://github.com/devrath/DroidDi) | Description |
 | [DroidJetpack](https://github.com/devrath/DroidAndroidJetpack) | Description |
