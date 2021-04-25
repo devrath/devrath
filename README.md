@@ -47,6 +47,8 @@ I am a passionate Software Engineer. I’m currently Working and learning **Andr
 | [ThisForThat](https://play.google.com/store/apps/details?id=com.sparklin.tft&hl=en_US) | This for That is a social fashion swapping platform for women. Here, you can take gorgeous pieces from your closet and swap them for equally stunning pieces from someone else’s closet, without any money changing hands. It's the most fun and awesome way to score some jaw dropping fashion for your closet!|
 | [ShoppersStop](https://play.google.com/store/apps/details?id=shoppersstop.shoppersstop&hl=en_US) | Shop from a wide range of options in men’s, women’s and kids’ apparel, fashion accessories, luxurious watches, cosmetics, stylish footwear, furnishing, home décor and more. And get them delivered to your doorstep. |
 
+---
+
 #### ``Written content``
 
 | Title | Publication |
