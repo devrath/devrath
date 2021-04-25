@@ -10,17 +10,8 @@
 </p>
   
 
-- 💬 I am a passionate Software Engineer
+I am a passionate Software Engineer. I’m currently Working and learning **Android, Flutter**. I contribute to opensource on stackoverflow community in [Stackoverflow](https://stackoverflow.com/users/1083093/devrath). And my Global [stackoverflow Ranking](https://stackexchange.com/leagues/1/alltime/stackoverflow/2008-07-31/1083093?sort=reputationchange#1083093). I write articles on [Medium](https://medium.com/@devrath.dev595)
 
-- 🌱 I’m currently Working and learning **Android, Flutter**
-
-- 📝 I contribute to opensource on stackoverflow [Stackoverflow](https://stackoverflow.com/users/1083093/devrath)
-
-- 📝 [My Global stackoverflow Ranking](https://stackexchange.com/leagues/1/alltime/stackoverflow/2008-07-31/1083093?sort=reputationchange#1083093)
-
-- 📝 I write articles on [Medium](https://medium.com/@devrath.dev595)
-
-- 💬 Ask me about **Android, kotlin, Java, Dart**
 
 
 <p align="center"><img src="https://github.com/devrath/devrath/blob/master/android-kotlin.gif"/></p>
