@@ -28,6 +28,21 @@ I am a passionate Software Engineer. I’m currently Working and learning **Andr
 | [RxJavaDemos](https://github.com/devrath/RxJavaDemos) | This project is used to demonstrate the use of RxJava with RxAndroid in Android Development. We have demonstrated the use of various operators namely creational, filter, transformation operators |
 
 
+---
+
+### ``Live Projects``
+
+* [MPL](https://www.mpl.live/)
+* [DealerSocket](https://play.google.com/store/apps/details?id=com.dealersocket.crm&hl=en_IN&gl=US)
+* [Disney Cruise Line Navigator](https://play.google.com/store/apps/details?id=com.disney.cruise.sept_goo&hl=en_US)
+* [Doctor 24*7](https://play.google.com/store/apps/details?id=com.doctor247.patient&hl=en_US)
+* [GalileoOne](https://en.cybernetyx.com/galileoonepage/)
+* [Quriosity](https://en.cybernetyx.com/quriositypage/)
+* [Eyerispro](https://en.cybernetyx.com/eyerisproppage/)
+* [Kneura](https://play.google.com/store/apps/details?id=com.cnx.kneurateach&hl=en_US)
+* [Kalimalock](https://www.youtube.com/watch?v=_ulqN586tgk)
+* [ThisForThat](https://play.google.com/store/apps/details?id=com.sparklin.tft&hl=en_US)
+* [ShoppersStop](https://play.google.com/store/apps/details?id=shoppersstop.shoppersstop&hl=en_US)
 
 
 <p align="center"><img src="https://github.com/devrath/devrath/blob/master/android-kotlin.gif"/></p>
