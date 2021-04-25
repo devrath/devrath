@@ -49,6 +49,13 @@ I am a passionate Software Engineer. I’m currently Working and learning **Andr
 
 ---
 
+#### ``Awards``
+
+[Mobile Application Development - Hands-On Experience](https://github.com/devrath/NavkisAndroid):: Visvesvaraya Technological University - Authorized faculty development program on Mobile Application Development - Hands-On Experience conducted by the Department of Computer Science & Engineering at Navkis college of Engineering Hassan.
+
+
+---
+
 #### ``Written content``
 
 | Title | Publication |
