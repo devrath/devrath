@@ -10,7 +10,7 @@
 </p>
   
 
-I am a passionate Software Engineer. I’m currently Working and learning **Android, Flutter**. I contribute to opensource community in [Stackoverflow](https://stackoverflow.com/users/1083093/devrath). And my Global [stackoverflow Ranking](https://stackexchange.com/leagues/1/alltime/stackoverflow/2008-07-31/1083093?sort=reputationchange#1083093). I write articles on [Medium](https://medium.com/@devrath.dev595)
+I am a passionate Software Engineer. I’m currently Working and learning **Android, Flutter**. I contribute to opensource community in [Stackoverflow](https://stackoverflow.com/users/1083093/devrath). And have a stackoverflow [Ranking](https://stackexchange.com/leagues/1/alltime/stackoverflow/2008-07-31/1083093?sort=reputationchange#1083093). I write articles on [Medium](https://medium.com/@devrath.dev595)
 
 
 
