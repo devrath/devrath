@@ -13,8 +13,9 @@
 I am a passionate Software Engineer. I’m currently Working and learning **Android, Flutter**. I contribute to opensource community in [Stackoverflow](https://stackoverflow.com/users/1083093/devrath). And have a stackoverflow [Ranking](https://stackexchange.com/leagues/1/alltime/stackoverflow/2008-07-31/1083093?sort=reputationchange#1083093). I write articles on [Medium](https://medium.com/@devrath.dev595)
 
 
+#### ``Github``
 
-| Projects in Github | Description |
+| Projects | Description |
 | --- | --- |
 | [DroidFoodApplication](https://github.com/devrath/DroidFoodApplication) | In this project we will call a api and get the data and display it, along with it we are caching it locally so that when your application is in offline, still we are able to display the data |
 | [DroidDi](https://github.com/devrath/DroidDi) | This project demonstrates how to use various dependency injection methodologies in android |
@@ -30,7 +31,7 @@ I am a passionate Software Engineer. I’m currently Working and learning **Andr
 
 ---
 
-### ``Live Projects``
+#### ``Live Projects``
 
 * [MPL](https://www.mpl.live/)
 * [DealerSocket](https://play.google.com/store/apps/details?id=com.dealersocket.crm&hl=en_IN&gl=US)
