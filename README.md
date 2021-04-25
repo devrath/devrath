@@ -53,6 +53,10 @@ I am a passionate Software Engineer. I’m currently Working and learning **Andr
 
 [Mobile Application Development - Hands-On Experience](https://github.com/devrath/NavkisAndroid):: Visvesvaraya Technological University - Authorized faculty development program on Mobile Application Development - Hands-On Experience conducted by the Department of Computer Science & Engineering at Navkis college of Engineering Hassan.
 
+---
+
+#### ``Publication``
+**Automatic navigation and optimization of robot using Optical character recognition without human intervention** on *May-27,2012* at International Conference on Computer science and information technology
 
 ---
 
