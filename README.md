@@ -16,16 +16,16 @@ I am a passionate Software Engineer. I’m currently Working and learning **Andr
 
 | Projects in Github | Description |
 | --- | --- |
-| [DroidFoodApplication](https://github.com/devrath/DroidFoodApplication) | Description |
-| [DroidDi](https://github.com/devrath/DroidDi) | Description |
-| [DroidJetpack](https://github.com/devrath/DroidAndroidJetpack) | Description |
-| [DroidCustomUI](https://github.com/devrath/DroidCustomUi) | Description |
-| [DroidCoroutinesUsecases](https://github.com/devrath/DroidCoroutinesUsecases) | Description |
-| [DroidKotlinCollectionsFlow](https://github.com/devrath/DroidKotlinCollectionsFlow) | Description |
-| [DroidMvvmTdd](https://github.com/devrath/DroidMvvmTdd) | Description |
-| [SilentUpdate](https://github.com/devrath/SilentUpdate) | Description |
-| [DroidKotlin](https://github.com/devrath/DroidKotlin) | Description |
-| [RxJavaDemos](https://github.com/devrath/RxJavaDemos) | Description |
+| [DroidFoodApplication](https://github.com/devrath/DroidFoodApplication) | In this project we will call a api and get the data and display it, along with it we are caching it locally so that when your application is in offline, still we are able to display the data |
+| [DroidDi](https://github.com/devrath/DroidDi) | This project demonstrates how to use various dependency injection methodologies in android |
+| [DroidJetpack](https://github.com/devrath/DroidAndroidJetpack) | Samples demonstrating the usage of various Jetpack components in android |
+| [DroidCustomUI](https://github.com/devrath/DroidCustomUi) | This project demonstrates the use of preparing the custom UI components |
+| [DroidCoroutinesUsecases](https://github.com/devrath/DroidCoroutinesUsecases) | This project contains a practical demonstration of the usage of co-routines in android. With these examples, we can use coroutines in many scenarios. It also demonstrates exception handling etc. |
+| [DroidKotlinCollectionsFlow](https://github.com/devrath/DroidKotlinCollectionsFlow) | This project explains how to use kotlin flow in android. Here with the help of MVVM architecture, we demonstrate the use of various kotlin flow operators. |
+| [DroidMvvmTdd](https://github.com/devrath/DroidMvvmTdd) | Android app development (Kotlin) with Clean Architecture, Test driven development, HILT, Espresso & Unit Testing |
+| [SilentUpdate](https://github.com/devrath/SilentUpdate) | This application is used to perform silent update using the device owner feature |
+| [DroidKotlin](https://github.com/devrath/DroidKotlin) | Demo of various fundamental concepts in kotlin |
+| [RxJavaDemos](https://github.com/devrath/RxJavaDemos) | This project is used to demonstrate the use of RxJava with RxAndroid in Android Development. We have demonstrated the use of various operators namely creational, filter, transformation operators |
 
 
 
