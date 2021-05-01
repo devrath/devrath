@@ -82,3 +82,8 @@ I am a passionate Software Engineer. I’m currently Working and learning **Andr
 
 <p align="center"><img src="https://github.com/devrath/devrath/blob/master/android-kotlin.gif"/></p>
 <p align="center"><img src="https://pbs.twimg.com/profile_images/1164525925242986497/N5_DCXYQ_400x400.jpg" alt="android" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/></p>
+
+
+<img src="https://raw.githubusercontent.com/devrath/devrath/master/people.webp" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+
