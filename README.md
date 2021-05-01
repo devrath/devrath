@@ -6,7 +6,7 @@
 
 
 
-<h1 align="center">Hi, I'm Devrath</h1>
+<h1 align="center">Hi👋, I'm Devrath</h1>
 
 <p align="center"><a href="https://twitter.com/devrath_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="devrath_dev" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/devrath-ad-01b59022" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devrath-ad-01b59022" height="30" width="30" /></a>
@@ -21,7 +21,7 @@
 I am a passionate Software Engineer. I’m currently Working and learning **Android**. I contribute to opensource community in [Stackoverflow](https://stackoverflow.com/users/1083093/devrath). I have a stackoverflow [Ranking](https://stackexchange.com/leagues/1/alltime/stackoverflow/2008-07-31/1083093?sort=reputationchange#1083093). And I write articles on [Medium](https://medium.com/@devrath.dev595)
 
 
-#### ``Github``
+#### 🗂️ ``Github``
 
 | Projects | Description |
 | --- | --- |
@@ -39,7 +39,7 @@ I am a passionate Software Engineer. I’m currently Working and learning **Andr
 
 ---
 
-#### ``Playstore``
+#### 🚧 ``Playstore``
 
 | Projects | Description |
 | --- | --- |
@@ -57,14 +57,14 @@ I am a passionate Software Engineer. I’m currently Working and learning **Andr
 
 ---
 
-#### ``Awards & Publication``
+#### 🏆 ``Awards & Publication``
 
 * [Mobile Application Development - Hands-On Experience](https://github.com/devrath/NavkisAndroid):: Visvesvaraya Technological University - Authorized faculty development program on Mobile Application Development - Hands-On Experience conducted by the Department of Computer Science & Engineering at Navkis college of Engineering Hassan.
 * **Automatic navigation and optimization of robot using Optical character recognition without human intervention** on *May-27,2012* at International Conference on Computer science and information technology
 
 ---
 
-#### ``Written content``
+#### 📝 ``Written content``
 
 | Title | Publication |
 | --- | --- |
