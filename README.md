@@ -72,4 +72,4 @@ I am a passionate Software Engineer. I’m currently Working and learning **Andr
 
 
 
-<p align="center"><img src="https://github.com/devrath/devrath/blob/master/android-kotlin.gif"/></p>
+<p align="center"><img src="https://github.com/devrath/devrath/blob/master/images/android-kotlin.gif"/></p>
