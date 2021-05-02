@@ -1,16 +1,17 @@
 ![squirrel](https://github.com/iamsinghashutosh/iamsinghashutosh/blob/main/squirrel.png)
 
-<h1 align="center">Hi👋, I'm Devrath</h1>
+## 👋 Introduction
 
-<p align="center"><a href="https://linkedin.com/in/devrath-ad-01b59022" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devrath-ad-01b59022" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/1083093" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="1083093" height="30" width="30" /></a>
-</p>
+<!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
+<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
+
+Hi people, I'm **Devrath**. I am a passionate Software Engineer and currently Working and learning **Android**. I contribute to opensource community in [Stackoverflow](https://stackoverflow.com/users/1083093/devrath). I have a stackoverflow [Ranking](https://stackexchange.com/leagues/1/alltime/stackoverflow/2008-07-31/1083093?sort=reputationchange#1083093). And I write articles on [Medium](https://medium.com/@devrath.dev595)
 
 <p align="center"><a href="https://stackoverflow.com/users/1083093/devrath"><img align="left" src="https://stackoverflow.com/users/flair/1083093.png" width="208" height="58" alt="profile for Devrath at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Devrath at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://linkedin.com/in/devrath-ad-01b59022" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devrath-ad-01b59022" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/1083093" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="1083093" height="30" width="30" />
 </p>
-
-I am a passionate Software Engineer. I’m currently Working and learning **Android**. I contribute to opensource community in [Stackoverflow](https://stackoverflow.com/users/1083093/devrath). I have a stackoverflow [Ranking](https://stackexchange.com/leagues/1/alltime/stackoverflow/2008-07-31/1083093?sort=reputationchange#1083093). And I write articles on [Medium](https://medium.com/@devrath.dev595)
-
+  
 ---
 
 #### 🗂️ ``Github``
