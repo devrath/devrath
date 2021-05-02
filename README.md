@@ -12,7 +12,9 @@ Hi people, I'm **Devrath**. I am a passionate Software Engineer and currently Wo
 <a href="https://linkedin.com/in/devrath-ad-01b59022" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devrath-ad-01b59022" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/1083093" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="1083093" height="30" width="30" />
 </p>
-</br></br>
+  
+</br>
+
 ---
 
 #### 🗂️ ``Github``
