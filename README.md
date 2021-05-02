@@ -3,7 +3,7 @@
 ## 👋 Introduction
 
 <!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
-<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
+<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='150"'>
 
 Hi people, I'm **Devrath**. I am a passionate Software Engineer and currently Working and learning **Android**. I contribute to opensource community in [Stackoverflow](https://stackoverflow.com/users/1083093/devrath). I have a stackoverflow [Ranking](https://stackexchange.com/leagues/1/alltime/stackoverflow/2008-07-31/1083093?sort=reputationchange#1083093). And I write articles on [Medium](https://medium.com/@devrath.dev595)
 </br>
