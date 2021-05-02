@@ -76,4 +76,4 @@ Hi people, I'm **Devrath**. I am a passionate Software Engineer and currently Wo
 
 
 
-<p align="center"><img src="https://github.com/devrath/devrath/blob/master/images/android-kotlin.gif"/></p>
+<p align="center"><img src="https://github.com/devrath/devrath/blob/master/images/android-kotlin.gif" height="190" width="300"/></p>
