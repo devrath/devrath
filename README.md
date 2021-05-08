@@ -9,15 +9,16 @@ Hi people, I'm **Devrath**. I am a passionate Software Engineer and currently Wo
 </br>
 
 <p align="center"><a href="https://stackoverflow.com/users/1083093/devrath"><img align="left" src="https://stackoverflow.com/users/flair/1083093.png" width="208" height="58" alt="profile for Devrath at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Devrath at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-<a href="https://linkedin.com/in/devrath-ad-01b59022" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devrath-ad-01b59022" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/1083093" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="1083093" height="30" width="30" />
+<a href="https://linkedin.com/in/devrath-ad-01b59022" target="blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="devrath-ad-01b59022" /></a>
+<a href="https://stackoverflow.com/users/1083093" target="blank"><img align="left" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="1083093" />
+<a href="https://medium.com/@devrath.dev595" target="blank"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="1083093" />
 </p>
   
 </br>
 
 ---
 
-#### 🗂️ ``Github``
+#### <img align='left' src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' >
 
 | Projects | Description |
 | --- | --- |
@@ -36,7 +37,7 @@ Hi people, I'm **Devrath**. I am a passionate Software Engineer and currently Wo
 
 ---
 
-#### 🚧 ``Playstore``
+#### <img align='left' src='https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white' >
 
 | Projects | Description |
 | --- | --- |
