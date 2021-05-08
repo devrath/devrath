@@ -1,4 +1,4 @@
-![squirrel](https://github.com/iamsinghashutosh/iamsinghashutosh/blob/main/squirrel.png)
+<!-- ![squirrel](https://github.com/iamsinghashutosh/iamsinghashutosh/blob/main/squirrel.png) -->
 
 ## 👋 Introduction
 
