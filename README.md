@@ -5,7 +5,7 @@
 <!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
 <img align='left' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='150"'>
 
-Hi people, I'm **Devrath**. I am a passionate Software Engineer and currently Working and learning **Android**. I contribute to opensource [opensource](https://stackoverflow.com/users/1083093/devrath) and I write [articles](https://medium.com/@devrath.dev595). I am passionate about writing software that solves problems in a creative way
+Hi people, I'm **Devrath**. I am a passionate Software Engineer and currently Working and learning **Android**. I contribute to [opensource](https://stackoverflow.com/users/1083093/devrath) and I write [articles](https://medium.com/@devrath.dev595). I am passionate about writing software that solves problems in a creative way
 </br>
 
 <p align="center"><a href="https://stackoverflow.com/users/1083093/devrath"><img align="left" src="https://stackoverflow.com/users/flair/1083093.png" width="208" height="58" alt="profile for Devrath at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Devrath at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
