@@ -68,6 +68,7 @@ Hi people, I'm **Devrath**. I am a passionate Software Engineer and currently Wo
 | Title | Publication |
 | --- | --- |
 | [What are co-routine jobs](https://medium.com/@devrath.dev595/what-are-co-routine-jobs-6313b0abacb9) | Medium |
+| [How memory is allocated and deallocated for classes and variables in android](https://medium.com/@devrath.dev595/how-memory-is-allocated-and-deallocated-for-classes-and-variables-in-android-269d84111b15) | Medium |
 | [What are co-routine dispatchers](https://medium.com/@devrath.dev595/what-are-co-routine-dispatchers-cafd4adae800) | Medium |
 | [What is Co-Routine Scoping](https://medium.com/@devrath.dev595/what-is-co-routine-scoping-792a2552d067) | Medium |
 | [What are Coroutines](https://medium.com/@devrath.dev595/what-are-coroutines-f85b20d4981d) | Medium |
