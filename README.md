@@ -35,6 +35,7 @@ Hi people, I'm **Devrath**. I am a passionate Software Engineer and currently Wo
 | [DroidKotlin](https://github.com/devrath/DroidKotlin) | Demo of various fundamental concepts in kotlin |
 | [RxJavaDemos](https://github.com/devrath/RxJavaDemos) | This project is used to demonstrate the use of RxJava with RxAndroid in Android Development. We have demonstrated the use of various operators namely creational, filter, transformation operators |
 | [glowing-interface-facts-doodle](https://github.com/devrath/glowing-interface-facts-doodle) | This project demonstrates how to the fundamental concept of oops called interface |
+| [glowing-designpatterns](https://github.com/devrath/glowing-designpatterns) | Design patterns for designing maintainable and extensible object-oriented software |
 
 
 ---
