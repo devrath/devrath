@@ -78,7 +78,7 @@ Hi people, I'm **Devrath**. I am a passionate Software Engineer and currently Wo
 | [Exploring Kotlin scope functions](https://medium.com/@devrath.dev595/explaining-kotlin-scope-functions-277e597b6b31) | Medium |
 | [Elvis Operator explained in Kotlin](https://medium.com/@devrath.dev595/elvis-operator-explained-in-kotlin-1d1a0ebf8307) | Medium |
 | [How to setup ktlint for your project in android](https://medium.com/@devrath.dev595/how-to-setup-ktlint-for-your-project-in-android-ea7093ea908b) | Medium |
-
+| [How & Why to use @JvmOverloads annotation in Kotlin](https://medium.com/@devrath.dev595/how-and-whto-use-jvmoverloads-annotation-in-kotlin-73809e7fbd50) | Medium |
 
 
 
