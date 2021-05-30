@@ -1,37 +1,47 @@
-![squirrel](https://github.com/iamsinghashutosh/iamsinghashutosh/blob/main/squirrel.png)
+<!-- ![squirrel](https://github.com/iamsinghashutosh/iamsinghashutosh/blob/main/squirrel.png) -->
 
-<h1 align="center">Hi👋, I'm Devrath</h1>
+## 👋 Introduction
 
-<p align="center"><a href="https://linkedin.com/in/devrath-ad-01b59022" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devrath-ad-01b59022" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/1083093" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="1083093" height="30" width="30" /></a>
-</p>
+<!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
+<img align='left' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='150"'>
+
+Hi people, I'm **Devrath**. I am a passionate Software Engineer and currently Working and learning **Android**. I contribute to [opensource](https://stackoverflow.com/users/1083093/devrath) and I write [articles](https://medium.com/@devrath.dev595). I am passionate about writing software that solves problems in a creative way
+</br>
 
 <p align="center"><a href="https://stackoverflow.com/users/1083093/devrath"><img align="left" src="https://stackoverflow.com/users/flair/1083093.png" width="208" height="58" alt="profile for Devrath at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Devrath at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://linkedin.com/in/devrath-ad-01b59022" target="blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="devrath-ad-01b59022" /></a>
+<a href="https://stackoverflow.com/users/1083093" target="blank"><img align="left" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="1083093" />
+<a href="https://medium.com/@devrath.dev595" target="blank"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="1083093" />
 </p>
-
-I am a passionate Software Engineer. I’m currently Working and learning **Android**. I contribute to opensource community in [Stackoverflow](https://stackoverflow.com/users/1083093/devrath). I have a stackoverflow [Ranking](https://stackexchange.com/leagues/1/alltime/stackoverflow/2008-07-31/1083093?sort=reputationchange#1083093). And I write articles on [Medium](https://medium.com/@devrath.dev595)
+  
+</br>
 
 ---
 
-#### 🗂️ ``Github``
+#### <img align='left' src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' >
 
 | Projects | Description |
 | --- | --- |
+| [DroidKotlinCleanArchitecture](https://github.com/devrath/DroidKotlinCleanArchitecture) | By using kotlin programming language, This is a clean architecture developed to demonstrate the usage of clean code |
 | [DroidFoodApplication](https://github.com/devrath/DroidFoodApplication) | In this project we will call a api and get the data and display it, along with it we are caching it locally so that when your application is in offline, still we are able to display the data |
 | [DroidDi](https://github.com/devrath/DroidDi) | This project demonstrates how to use various dependency injection methodologies in android |
 | [DroidJetpack](https://github.com/devrath/DroidAndroidJetpack) | Samples demonstrating the usage of various Jetpack components in android |
 | [DroidCustomUI](https://github.com/devrath/DroidCustomUi) | This project demonstrates the use of preparing the custom UI components |
+| [DroidMvvmTdd](https://github.com/devrath/DroidMvvmTdd) | Android app development (Kotlin) with Clean Architecture, Test driven development, HILT, Espresso & Unit Testing |
+ [DroidNoteApplication](https://github.com/devrath/DroidNoteApplication) | Here user can enter the notes and save them locally, then view the list of notes. This project is developed using clean architecture in kotlin |
 | [DroidCoroutinesUsecases](https://github.com/devrath/DroidCoroutinesUsecases) | This project contains a practical demonstration of the usage of co-routines in android. With these examples, we can use coroutines in many scenarios. It also demonstrates exception handling etc. |
 | [DroidKotlinCollectionsFlow](https://github.com/devrath/DroidKotlinCollectionsFlow) | This project explains how to use kotlin flow in android. Here with the help of MVVM architecture, we demonstrate the use of various kotlin flow operators. |
-| [DroidMvvmTdd](https://github.com/devrath/DroidMvvmTdd) | Android app development (Kotlin) with Clean Architecture, Test driven development, HILT, Espresso & Unit Testing |
 | [SilentUpdate](https://github.com/devrath/SilentUpdate) | This application is used to perform silent update using the device owner feature |
 | [DroidKotlin](https://github.com/devrath/DroidKotlin) | Demo of various fundamental concepts in kotlin |
 | [RxJavaDemos](https://github.com/devrath/RxJavaDemos) | This project is used to demonstrate the use of RxJava with RxAndroid in Android Development. We have demonstrated the use of various operators namely creational, filter, transformation operators |
-
+| [glowing-interface-facts-doodle](https://github.com/devrath/glowing-interface-facts-doodle) | This project demonstrates how to the fundamental concept of oops called interface |
+| [glowing-designpatterns](https://github.com/devrath/glowing-designpatterns) | Design patterns for designing maintainable and extensible object-oriented software |
+| [fluffy-okhttp-interceptors](https://github.com/devrath/fluffy-okhttp-interceptors) | How to use okhttp interceptors for network requests, log , debug and modify them as required |
+| [android-congenial-fortnight-darktheme](https://github.com/devrath/android-congenial-fortnight-darktheme) | Supporting dark theme in pre android-10 and above versions |
 
 ---
 
-#### 🚧 ``Playstore``
+#### <img align='left' src='https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white' >
 
 | Projects | Description |
 | --- | --- |
@@ -61,6 +71,7 @@ I am a passionate Software Engineer. I’m currently Working and learning **Andr
 | Title | Publication |
 | --- | --- |
 | [What are co-routine jobs](https://medium.com/@devrath.dev595/what-are-co-routine-jobs-6313b0abacb9) | Medium |
+| [How memory is allocated and deallocated for classes and variables in android](https://medium.com/@devrath.dev595/how-memory-is-allocated-and-deallocated-for-classes-and-variables-in-android-269d84111b15) | Medium |
 | [What are co-routine dispatchers](https://medium.com/@devrath.dev595/what-are-co-routine-dispatchers-cafd4adae800) | Medium |
 | [What is Co-Routine Scoping](https://medium.com/@devrath.dev595/what-is-co-routine-scoping-792a2552d067) | Medium |
 | [What are Coroutines](https://medium.com/@devrath.dev595/what-are-coroutines-f85b20d4981d) | Medium |
@@ -68,8 +79,8 @@ I am a passionate Software Engineer. I’m currently Working and learning **Andr
 | [Exploring Kotlin scope functions](https://medium.com/@devrath.dev595/explaining-kotlin-scope-functions-277e597b6b31) | Medium |
 | [Elvis Operator explained in Kotlin](https://medium.com/@devrath.dev595/elvis-operator-explained-in-kotlin-1d1a0ebf8307) | Medium |
 | [How to setup ktlint for your project in android](https://medium.com/@devrath.dev595/how-to-setup-ktlint-for-your-project-in-android-ea7093ea908b) | Medium |
+| [How & Why to use @JvmOverloads annotation in Kotlin](https://medium.com/@devrath.dev595/how-and-whto-use-jvmoverloads-annotation-in-kotlin-73809e7fbd50) | Medium |
 
 
 
-
-<p align="center"><img src="https://github.com/devrath/devrath/blob/master/images/android-kotlin.gif"/></p>
+<p align="center"><img src="https://github.com/devrath/devrath/blob/master/images/android-kotlin.gif" height="190" width="300"/></p>
