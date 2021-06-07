@@ -82,7 +82,7 @@ Hi people, I'm **Devrath**. I am a passionate Software Engineer and currently Wo
 | [Elvis Operator explained in Kotlin](https://medium.com/@devrath.dev595/elvis-operator-explained-in-kotlin-1d1a0ebf8307) | Medium |
 | [How to setup ktlint for your project in android](https://medium.com/@devrath.dev595/how-to-setup-ktlint-for-your-project-in-android-ea7093ea908b) | Medium |
 | [How & Why to use @JvmOverloads annotation in Kotlin](https://medium.com/@devrath.dev595/how-and-whto-use-jvmoverloads-annotation-in-kotlin-73809e7fbd50) | Medium |
-
+| [Defining ViewBinding initialization in the base class for reusability](https://medium.com/@devrath.dev595/defining-viewbinding-initialization-in-the-base-class-for-reusability-99ae5cb1ece7) | Medium |
 
 
 <p align="center"><img src="https://github.com/devrath/devrath/blob/master/images/android-kotlin.gif" height="190" width="300"/></p>
