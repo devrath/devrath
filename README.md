@@ -40,6 +40,7 @@ Hi people, I'm **Devrath**. I am a passionate Software Engineer and currently Wo
 | [android-congenial-fortnight-darktheme](https://github.com/devrath/android-congenial-fortnight-darktheme) | Supporting dark theme in pre android-10 and above versions |
 | [reimagined-kotlin-sealed-classes](https://github.com/devrath/reimagined-kotlin-sealed-classes) | This project demonstrates how to use kotlin sealed classes in android and provides documentation on the sealed classes |  
 | [didactic-di-koin](https://github.com/devrath/didactic-di-koin) | This repository describes how to implement koin in android |  
+| [verbose-room-database](https://github.com/devrath/verbose-room-database) | This repository describes how to implement room persistence library in android |  
 
 ---
 
