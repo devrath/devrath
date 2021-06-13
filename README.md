@@ -23,7 +23,7 @@ Hi people, I'm **Devrath**. I am a passionate Software Engineer and currently Wo
 | Projects | Description |
 | --- | --- |
 | [DroidKotlinCleanArchitecture](https://github.com/devrath/DroidKotlinCleanArchitecture) | By using kotlin programming language, This is a clean architecture developed to demonstrate the usage of clean code |
-| [DroidFoodApplication](https://github.com/devrath/DroidFoodApplication) | In this project we will call a api and get the data and display it, along with it we are caching it locally so that when your application is in offline, still we are able to display the data |
+| [Offline Application](https://github.com/devrath/droid-offline-application) | In this project we will call a api and get the data and display it, along with it we are caching it locally so that when your application is in offline, still we are able to display the data |
 | [DroidDi](https://github.com/devrath/DroidDi) | This project demonstrates how to use various dependency injection methodologies in android |
 | [DroidJetpack](https://github.com/devrath/DroidAndroidJetpack) | Samples demonstrating the usage of various Jetpack components in android |
 | [DroidCustomUI](https://github.com/devrath/DroidCustomUi) | This project demonstrates the use of preparing the custom UI components |
