@@ -43,7 +43,7 @@ Hi people, I'm **Devrath**. I am a passionate Software Engineer and currently Wo
 | [solid-kotlin-concepts](https://github.com/devrath/solid-kotlin-concepts) | Repository demonstrates various fundamentals of kotlin programming |  
 | [modularized-app-features](https://github.com/devrath/modularized-app-features) | Project describes how to set up the project using multi-module approach and nesting relevant structures based on the functionality. |  
 
-| `Unit/Integration testing Demo Projects` | `Description` |
+| `Unit testing Demo Projects` | `Description` |
 | --- | --- |  
 | [DroidMvvmTdd](https://github.com/devrath/DroidMvvmTdd) | Android app development (Kotlin) with Clean Architecture, Test driven development, HILT, Espresso & Unit Testing |  
 | [automatic-octo-fiesta](https://github.com/devrath/automatic-octo-fiesta) | This is a collection of projects that contains all the concepts and demos on how to use testing in andoid development and wki contains the explations for the concepts used in testing  |
