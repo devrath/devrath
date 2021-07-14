@@ -23,12 +23,11 @@ Hi people, I'm **Devrath**. I am a passionate Software Engineer and currently Wo
 | Projects | Description |
 | --- | --- |
 | [DroidKotlinCleanArchitecture](https://github.com/devrath/DroidKotlinCleanArchitecture) | By using kotlin programming language, This is a clean architecture developed to demonstrate the usage of clean code |
-| [DroidFoodApplication](https://github.com/devrath/DroidFoodApplication) | In this project we will call a api and get the data and display it, along with it we are caching it locally so that when your application is in offline, still we are able to display the data |
+| [Offline Application](https://github.com/devrath/droid-offline-application) | In this project we will call a api and get the data and display it, along with it we are caching it locally so that when your application is in offline, still we are able to display the data |
 | [DroidDi](https://github.com/devrath/DroidDi) | This project demonstrates how to use various dependency injection methodologies in android |
 | [DroidJetpack](https://github.com/devrath/DroidAndroidJetpack) | Samples demonstrating the usage of various Jetpack components in android |
 | [DroidCustomUI](https://github.com/devrath/DroidCustomUi) | This project demonstrates the use of preparing the custom UI components |
-| [DroidMvvmTdd](https://github.com/devrath/DroidMvvmTdd) | Android app development (Kotlin) with Clean Architecture, Test driven development, HILT, Espresso & Unit Testing |
- [DroidNoteApplication](https://github.com/devrath/DroidNoteApplication) | Here user can enter the notes and save them locally, then view the list of notes. This project is developed using clean architecture in kotlin |
+| [DroidNoteApplication](https://github.com/devrath/DroidNoteApplication) | Here user can enter the notes and save them locally, then view the list of notes. This project is developed using clean architecture in kotlin |
 | [DroidCoroutinesUsecases](https://github.com/devrath/DroidCoroutinesUsecases) | This project contains a practical demonstration of the usage of co-routines in android. With these examples, we can use coroutines in many scenarios. It also demonstrates exception handling etc. |
 | [DroidKotlinCollectionsFlow](https://github.com/devrath/DroidKotlinCollectionsFlow) | This project explains how to use kotlin flow in android. Here with the help of MVVM architecture, we demonstrate the use of various kotlin flow operators. |
 | [SilentUpdate](https://github.com/devrath/SilentUpdate) | This application is used to perform silent update using the device owner feature |
@@ -40,6 +39,15 @@ Hi people, I'm **Devrath**. I am a passionate Software Engineer and currently Wo
 | [android-congenial-fortnight-darktheme](https://github.com/devrath/android-congenial-fortnight-darktheme) | Supporting dark theme in pre android-10 and above versions |
 | [reimagined-kotlin-sealed-classes](https://github.com/devrath/reimagined-kotlin-sealed-classes) | This project demonstrates how to use kotlin sealed classes in android and provides documentation on the sealed classes |  
 | [didactic-di-koin](https://github.com/devrath/didactic-di-koin) | This repository describes how to implement koin in android |  
+| [verbose-room-database](https://github.com/devrath/verbose-room-database) | This repository describes how to implement room persistence library in android |  
+| [solid-kotlin-concepts](https://github.com/devrath/solid-kotlin-concepts) | Repository demonstrates various fundamentals of kotlin programming |  
+| [modularized-app-features](https://github.com/devrath/modularized-app-features) | Project describes how to set up the project using multi-module approach and nesting relevant structures based on the functionality. |  
+
+| `Unit testing Demo Projects` | `Description` |
+| --- | --- |  
+| [DroidMvvmTdd](https://github.com/devrath/DroidMvvmTdd) | Android app development (Kotlin) with Clean Architecture, Test driven development, HILT, Espresso & Unit Testing |  
+| [automatic-octo-fiesta](https://github.com/devrath/automatic-octo-fiesta) | This is a collection of projects that contains all the concepts and demos on how to use testing in andoid development and wki contains the explations for the concepts used in testing  |
+  
 
 ---
 
