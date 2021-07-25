@@ -41,7 +41,8 @@ Hi people, I'm **Devrath**. I am a passionate Software Engineer and currently Wo
 | [didactic-di-koin](https://github.com/devrath/didactic-di-koin) | This repository describes how to implement koin in android |  
 | [verbose-room-database](https://github.com/devrath/verbose-room-database) | This repository describes how to implement room persistence library in android |  
 | [solid-kotlin-concepts](https://github.com/devrath/solid-kotlin-concepts) | Repository demonstrates various fundamentals of kotlin programming |  
-| [modularized-app-features](https://github.com/devrath/modularized-app-features) | Project describes how to set up the project using multi-module approach and nesting relevant structures based on the functionality. |  
+| [modularized-app-features](https://github.com/devrath/modularized-app-features) | Project describes how to set up the project using multi-module approach and nesting relevant structures based on the functionality. | 
+| [refactored-android-scoped-storage](https://github.com/devrath/refactored-android-scoped-storage) | Scoped storage came on the scene from Android 10 giving importance to users privacy. | 
 
 | `Unit testing Demo Projects` | `Description` |
 | --- | --- |  
