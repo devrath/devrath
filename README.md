@@ -42,13 +42,13 @@ Hi people, I'm **Devrath**. I am a passionate Software Engineer and currently Wo
 | [verbose-room-database](https://github.com/devrath/verbose-room-database) | This repository describes how to implement room persistence library in android |  
 | [solid-kotlin-concepts](https://github.com/devrath/solid-kotlin-concepts) | Repository demonstrates various fundamentals of kotlin programming |  
 | [modularized-app-features](https://github.com/devrath/modularized-app-features) | Project describes how to set up the project using multi-module approach and nesting relevant structures based on the functionality. | 
-| [refactored-android-scoped-storage](https://github.com/devrath/refactored-android-scoped-storage) | Scoped storage came on the scene from Android 10 giving importance to users privacy. | 
+| [refactored-android-scoped-storage](https://github.com/devrath/refactored-android-scoped-storage) | Scoped storage came on the scene from Android 10 giving importance to users privacy. |
+| [ubiquitous-kotlin-downloadmanager](https://github.com/devrath/ubiquitous-kotlin-downloadmanager) | This repository contains the demo sample on how to use download manager to download a file from a server. |  
 
 | `Unit testing Demo Projects` | `Description` |
 | --- | --- |  
 | [DroidMvvmTdd](https://github.com/devrath/DroidMvvmTdd) | Android app development (Kotlin) with Clean Architecture, Test driven development, HILT, Espresso & Unit Testing |  
 | [automatic-octo-fiesta](https://github.com/devrath/automatic-octo-fiesta) | This is a collection of projects that contains all the concepts and demos on how to use testing in andoid development and wki contains the explations for the concepts used in testing  |
-| [ubiquitous-kotlin-downloadmanager](https://github.com/devrath/ubiquitous-kotlin-downloadmanager) | This repository contains the demo sample on how to use download manager to download a file from a server. |
   
 
 ---
