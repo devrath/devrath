@@ -46,6 +46,7 @@ Hi people, I'm **Devrath**. I am a passionate Software Engineer and currently Wo
 | [ubiquitous-kotlin-downloadmanager](https://github.com/devrath/ubiquitous-kotlin-downloadmanager) | This repository contains the demo sample on how to use download manager to download a file from a server. |  
 | [verbose-notification-channels](https://github.com/devrath/verbose-notification-channels) | Demo on how to use notification channels on android. |
 | [literate-datastore-preferences](https://github.com/devrath/literate-datastore-preferences) | This repository describes how to use data store in a mvvm based project |
+| [hilt-multi-module-implementation](https://github.com/devrath/hilt-multi-module-implementation) | This repository demonstrates how to use hilt in a multimodule project |
 
 | `Unit testing Demo Projects` | `Description` |
 | --- | --- |  
