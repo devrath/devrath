@@ -52,6 +52,7 @@ Hi people, I'm **Devrath**. I am a passionate Software Engineer and currently Wo
 | --- | --- |  
 | [DroidMvvmTdd](https://github.com/devrath/DroidMvvmTdd) | Android app development (Kotlin) with Clean Architecture, Test driven development, HILT, Espresso & Unit Testing |  
 | [automatic-octo-fiesta](https://github.com/devrath/automatic-octo-fiesta) | This is a collection of projects that contains all the concepts and demos on how to use testing in andoid development and wki contains the explations for the concepts used in testing  |
+| [SegmentedSeekBar](https://github.com/devrath/SegmentedSeekBar) | This repository demonstrates how to create a custom seek-bar to showcase sections in the seek-bar |
   
 
 ---
@@ -96,6 +97,9 @@ Hi people, I'm **Devrath**. I am a passionate Software Engineer and currently Wo
 | [How to setup ktlint for your project in android](https://medium.com/@devrath.dev595/how-to-setup-ktlint-for-your-project-in-android-ea7093ea908b) | Medium |
 | [How & Why to use @JvmOverloads annotation in Kotlin](https://medium.com/@devrath.dev595/how-and-whto-use-jvmoverloads-annotation-in-kotlin-73809e7fbd50) | Medium |
 | [Defining ViewBinding initialization in the base class for reusability](https://medium.com/@devrath.dev595/defining-viewbinding-initialization-in-the-base-class-for-reusability-99ae5cb1ece7) | Medium |
+| [Creating a custom segmented seek bar like youtube](https://medium.com/@devrath.dev595/creating-a-custom-segmented-seek-bar-like-youtube-624b4ffc9f25) | Medium |
+| [Calling a legacy AsyncTask code using coroutines](https://medium.com/@devrath.dev595/calling-a-legacy-asynctask-code-using-coroutines-5ca86cfe36c7) | Medium |
+   
 
 
 <p align="center"><img src="https://github.com/devrath/devrath/blob/master/images/android-kotlin.gif" height="190" width="300"/></p>
