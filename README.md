@@ -99,7 +99,8 @@ Hi people, I'm **Devrath**. I am a passionate Software Engineer and currently Wo
 | [Defining ViewBinding initialization in the base class for reusability](https://medium.com/@devrath.dev595/defining-viewbinding-initialization-in-the-base-class-for-reusability-99ae5cb1ece7) | Medium |
 | [Creating a custom segmented seek bar like youtube](https://medium.com/@devrath.dev595/creating-a-custom-segmented-seek-bar-like-youtube-624b4ffc9f25) | Medium |
 | [Calling a legacy AsyncTask code using coroutines](https://medium.com/@devrath.dev595/calling-a-legacy-asynctask-code-using-coroutines-5ca86cfe36c7) | Medium |
-   
+| [Higher-Order Functions in kotlin](https://medium.com/@devrath.dev595/higher-order-functions-in-kotlin-ecda7852a8f5) | Medium |
+
 
 
 <p align="center"><img src="https://github.com/devrath/devrath/blob/master/images/android-kotlin.gif" height="190" width="300"/></p>
