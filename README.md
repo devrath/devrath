@@ -47,12 +47,12 @@ Hi people, I'm **Devrath**. I am a passionate Software Engineer and currently Wo
 | [verbose-notification-channels](https://github.com/devrath/verbose-notification-channels) | Demo on how to use notification channels on android. |
 | [literate-datastore-preferences](https://github.com/devrath/literate-datastore-preferences) | This repository describes how to use data store in a mvvm based project |
 | [hilt-multi-module-implementation](https://github.com/devrath/hilt-multi-module-implementation) | This repository demonstrates how to use hilt in a multimodule project |
+| [SegmentedSeekBar](https://github.com/devrath/SegmentedSeekBar) | This repository demonstrates how to create a custom seek-bar to showcase sections in the seek-bar |
 
 | `Unit testing Demo Projects` | `Description` |
 | --- | --- |  
 | [DroidMvvmTdd](https://github.com/devrath/DroidMvvmTdd) | Android app development (Kotlin) with Clean Architecture, Test driven development, HILT, Espresso & Unit Testing |  
 | [automatic-octo-fiesta](https://github.com/devrath/automatic-octo-fiesta) | This is a collection of projects that contains all the concepts and demos on how to use testing in andoid development and wki contains the explations for the concepts used in testing  |
-| [SegmentedSeekBar](https://github.com/devrath/SegmentedSeekBar) | This repository demonstrates how to create a custom seek-bar to showcase sections in the seek-bar |
   
 
 ---
