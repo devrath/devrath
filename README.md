@@ -48,6 +48,7 @@ Hi people, I'm **Devrath**. I am a passionate Software Engineer and currently Wo
 | [literate-datastore-preferences](https://github.com/devrath/literate-datastore-preferences) | This repository describes how to use data store in a mvvm based project |
 | [hilt-multi-module-implementation](https://github.com/devrath/hilt-multi-module-implementation) | This repository demonstrates how to use hilt in a multimodule project |
 | [SegmentedSeekBar](https://github.com/devrath/SegmentedSeekBar) | This repository demonstrates how to create a custom seek-bar to showcase sections in the seek-bar |
+| [droid-octo-exoplayer](https://github.com/devrath/droid-octo-exoplayer) | This repository demonstrates how to use the ExoPlayer which is an application level media player for Android. |
 
 | `Unit testing Demo Projects` | `Description` |
 | --- | --- |  
