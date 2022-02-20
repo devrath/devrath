@@ -101,6 +101,7 @@ Hi people, I'm **Devrath**. I am a passionate Software Engineer and currently Wo
 | [Creating a custom segmented seek bar like youtube](https://medium.com/@devrath.dev595/creating-a-custom-segmented-seek-bar-like-youtube-624b4ffc9f25) | Medium |
 | [Calling a legacy AsyncTask code using coroutines](https://medium.com/@devrath.dev595/calling-a-legacy-asynctask-code-using-coroutines-5ca86cfe36c7) | Medium |
 | [Higher-Order Functions in kotlin](https://medium.com/@devrath.dev595/higher-order-functions-in-kotlin-ecda7852a8f5) | Medium |
+| [Handling input stream using kotlin](https://medium.com/@devrath.dev595/handling-input-stream-using-kotlin-dbc404f03967) | Medium |
 
 
 
