@@ -102,7 +102,7 @@ Hi people, I'm **Devrath**. I am a passionate Software Engineer and currently Wo
 | [Calling a legacy AsyncTask code using coroutines](https://medium.com/@devrath.dev595/calling-a-legacy-asynctask-code-using-coroutines-5ca86cfe36c7) | Medium |
 | [Higher-Order Functions in kotlin](https://medium.com/@devrath.dev595/higher-order-functions-in-kotlin-ecda7852a8f5) | Medium |
 | [Handling input stream using kotlin](https://medium.com/@devrath.dev595/handling-input-stream-using-kotlin-dbc404f03967) | Medium |
-
+| [An elegant way to handle recycler-view item on-click in android](https://medium.com/@devrath.dev595/an-elegant-way-to-handle-recycler-view-item-on-click-in-android-d011c95e2953) | Medium |
 
 
 <p align="center"><img src="https://github.com/devrath/devrath/blob/master/images/android-kotlin.gif" height="190" width="300"/></p>
