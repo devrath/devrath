@@ -103,6 +103,6 @@ Hi people, I'm **Devrath**. I am a passionate Software Engineer and currently Wo
 | [Higher-Order Functions in kotlin](https://medium.com/@devrath.dev595/higher-order-functions-in-kotlin-ecda7852a8f5) | Medium |
 | [Handling input stream using kotlin](https://medium.com/@devrath.dev595/handling-input-stream-using-kotlin-dbc404f03967) | Medium |
 | [An elegant way to handle recycler-view item on-click in android](https://medium.com/@devrath.dev595/an-elegant-way-to-handle-recycler-view-item-on-click-in-android-d011c95e2953) | Medium |
-
+| [Jetpack compose - Why?](https://medium.com/@devrath.dev595/jetpack-compose-why-e3f660f183cd) | Medium |
 
 <p align="center"><img src="https://github.com/devrath/devrath/blob/master/images/android-kotlin.gif" height="190" width="300"/></p>
