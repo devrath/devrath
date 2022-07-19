@@ -1,9 +1,6 @@
-<!-- ![squirrel](https://github.com/iamsinghashutosh/iamsinghashutosh/blob/main/squirrel.png) -->
+# 👋 Introduction
 
-## 👋 Introduction
-
-<!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
-<p align="left"><img src="https://octodex.github.com/images/hula_loop_octodex03.gif" height="190" width="190"/></p>
+<img align="left" height="190" width="190" src="https://octodex.github.com/images/hula_loop_octodex03.gif"  alt="dev_logo"/>
 
 Hi people, I'm **Devrath**. I am a passionate Software Engineer and currently Working and learning **Android**. I contribute to [opensource](https://stackoverflow.com/users/1083093/devrath) and I write [articles](https://medium.com/@devrath.dev595). I am passionate about writing software that solves problems in a creative way
 </br>
