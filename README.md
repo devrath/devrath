@@ -14,8 +14,6 @@ Hi people, I'm **Devrath**. I am a passionate Software Engineer and currently Wo
 
 ---
 
-#### <img align='left' src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' >
-
 | Projects | Description |
 | --- | --- |
 | [DroidKotlinCleanArchitecture](https://github.com/devrath/DroidKotlinCleanArchitecture) | By using kotlin programming language, This is a clean architecture developed to demonstrate the usage of clean code |
