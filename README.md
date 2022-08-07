@@ -80,14 +80,14 @@
 
 ---
 
-#### 🏆 ``Awards & Publication``
-
-* [Mobile Application Development - Hands-On Experience](https://github.com/devrath/NavkisAndroid):: Visvesvaraya Technological University - Authorized faculty development program on Mobile Application Development - Hands-On Experience conducted by the Department of Computer Science & Engineering at Navkis college of Engineering Hassan.
-* **Automatic navigation and optimization of robot using Optical character recognition without human intervention** on *May-27,2012* at International Conference on Computer science and information technology
+#### 🏆 ``𝙰𝚠𝚊𝚛𝚍𝚜 & 𝙿𝚞𝚋𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗``
+* [Code Star](https://www.linkedin.com/in/devrath-ad-01b59022/details/honors/)
+* [Mobile Application Development - Hands-On Experience](https://www.linkedin.com/in/devrath-ad-01b59022/details/honors/)
+* [Automatic navigation and optimization of robot using Optical character recognition without human intervention](https://www.linkedin.com/in/devrath-ad-01b59022/details/publications/)
 
 ---
 
-#### 📝 ``Written content``
+#### 📝 ``𝚆𝚛𝚒𝚝𝚝𝚎𝚗 𝚌𝚘𝚗𝚝𝚎𝚗𝚝``
 * [𝚆𝚑𝚊𝚝 𝚊𝚛𝚎 𝚌𝚘-𝚛𝚘𝚞𝚝𝚒𝚗𝚎 𝚓𝚘𝚋𝚜](https://medium.com/@devrath.dev595/what-are-co-routine-jobs-6313b0abacb9)
 * [𝙷𝚘𝚠 𝚖𝚎𝚖𝚘𝚛𝚢 𝚒𝚜 𝚊𝚕𝚕𝚘𝚌𝚊𝚝𝚎𝚍 𝚊𝚗𝚍 𝚍𝚎𝚊𝚕𝚕𝚘𝚌𝚊𝚝𝚎𝚍 𝚏𝚘𝚛 𝚌𝚕𝚊𝚜𝚜𝚎𝚜 𝚊𝚗𝚍 𝚟𝚊𝚛𝚒𝚊𝚋𝚕𝚎𝚜 𝚒𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍](https://medium.com/@devrath.dev595/how-memory-is-allocated-and-deallocated-for-classes-and-variables-in-android-269d84111b15)
 * [𝚆𝚑𝚊𝚝 𝚊𝚛𝚎 𝚌𝚘-𝚛𝚘𝚞𝚝𝚒𝚗𝚎 𝚍𝚒𝚜𝚙𝚊𝚝𝚌𝚑𝚎𝚛𝚜](https://medium.com/@devrath.dev595/what-are-co-routine-dispatchers-cafd4adae800)
