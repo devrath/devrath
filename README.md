@@ -22,7 +22,7 @@
 * [𝚍𝚛𝚘𝚒𝚍-𝚘𝚏𝚏𝚕𝚒𝚗𝚎-𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗](https://github.com/devrath/droid-offline-application) - 𝙼𝚞𝚕𝚝𝚒𝚙𝚕𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚘𝚗 𝚑𝚘𝚠 𝚝𝚘 𝚏𝚎𝚝𝚌𝚑 𝚍𝚊𝚝𝚊 𝚏𝚛𝚘𝚖 𝚊 𝚛𝚎𝚖𝚘𝚝𝚎 𝚜𝚎𝚛𝚟𝚎𝚛 & 𝚌𝚊𝚌𝚑𝚎 𝚒𝚝 𝚐𝚛𝚊𝚌𝚎𝚏𝚞𝚕𝚕𝚢.
 * [𝙳𝚛𝚘𝚒𝚍𝙽𝚘𝚝𝚎𝙰𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗](https://github.com/devrath/DroidNoteApplication) - 𝙽𝚘𝚝𝚎 𝚝𝚊𝚔𝚒𝚗𝚐 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚝𝚘 𝚜𝚊𝚟𝚎 𝚝𝚑𝚎 𝚗𝚘𝚝𝚎𝚜 𝚕𝚘𝚌𝚊𝚕𝚕𝚢 𝚊𝚗𝚍 𝚟𝚒𝚎𝚠 𝚝𝚑𝚎𝚖.
 * [𝙳𝚛𝚘𝚒𝚍𝙼𝚟𝚟𝚖𝚃𝚍𝚍](https://github.com/devrath/DroidMvvmTdd) - 𝙺𝚘𝚝𝚕𝚒𝚗 𝚃𝚎𝚜𝚝 𝚍𝚛𝚒𝚟𝚎𝚗 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝, 𝙷𝙸𝙻𝚃, 𝙴𝚜𝚙𝚛𝚎𝚜𝚜𝚘 & 𝚄𝚗𝚒𝚝 𝚃𝚎𝚜𝚝𝚒𝚗𝚐. 
-* [DroidKotlinCleanArchitecture](https://github.com/devrath/DroidKotlinCleanArchitecture) - 𝚂𝚊𝚖𝚙𝚕𝚎 𝚌𝚕𝚎𝚊𝚗 𝚊𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚎 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚍 𝚞𝚜𝚒𝚗𝚐 𝚔𝚘𝚝𝚕𝚒𝚗.
+* [𝙳𝚛𝚘𝚒𝚍𝙺𝚘𝚝𝚕𝚒𝚗𝙲𝚕𝚎𝚊𝚗𝙰𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚎](https://github.com/devrath/DroidKotlinCleanArchitecture) - 𝚂𝚊𝚖𝚙𝚕𝚎 𝚌𝚕𝚎𝚊𝚗 𝚊𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚎 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚍 𝚞𝚜𝚒𝚗𝚐 𝚔𝚘𝚝𝚕𝚒𝚗.
 
 ### **`𝙾𝚝𝚑𝚎𝚛 𝙶𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜`**
 * [𝙳𝚛𝚘𝚒𝚍𝙹𝚎𝚝𝚙𝚊𝚌𝚔](https://github.com/devrath/DroidAndroidJetpack) - 𝚂𝚊𝚖𝚙𝚕𝚎𝚜 𝚊𝚗𝚍 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐𝚜 𝚍𝚎𝚖𝚘𝚗𝚜𝚝𝚛𝚊𝚝𝚒𝚗𝚐 𝚝𝚑𝚎 𝚞𝚜𝚊𝚐𝚎 𝚘𝚏 𝚟𝚊𝚛𝚒𝚘𝚞𝚜 𝙹𝚎𝚝𝚙𝚊𝚌𝚔 𝚌𝚘𝚖𝚙𝚘𝚗𝚎𝚗𝚝𝚜.
