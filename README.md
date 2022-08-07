@@ -88,25 +88,22 @@
 ---
 
 #### 📝 ``Written content``
-
-| Title | Publication |
-| --- | --- |
-| [What are co-routine jobs](https://medium.com/@devrath.dev595/what-are-co-routine-jobs-6313b0abacb9) | Medium |
-| [How memory is allocated and deallocated for classes and variables in android](https://medium.com/@devrath.dev595/how-memory-is-allocated-and-deallocated-for-classes-and-variables-in-android-269d84111b15) | Medium |
-| [What are co-routine dispatchers](https://medium.com/@devrath.dev595/what-are-co-routine-dispatchers-cafd4adae800) | Medium |
-| [What is Co-Routine Scoping](https://medium.com/@devrath.dev595/what-is-co-routine-scoping-792a2552d067) | Medium |
-| [What are Coroutines](https://medium.com/@devrath.dev595/what-are-coroutines-f85b20d4981d) | Medium |
-| [Understanding Context in Android](https://medium.com/@devrath.dev595/understanding-context-in-android-15cbb6cc9b49) | Medium |
-| [Exploring Kotlin scope functions](https://medium.com/@devrath.dev595/explaining-kotlin-scope-functions-277e597b6b31) | Medium |
-| [Elvis Operator explained in Kotlin](https://medium.com/@devrath.dev595/elvis-operator-explained-in-kotlin-1d1a0ebf8307) | Medium |
-| [How to setup ktlint for your project in android](https://medium.com/@devrath.dev595/how-to-setup-ktlint-for-your-project-in-android-ea7093ea908b) | Medium |
-| [How & Why to use @JvmOverloads annotation in Kotlin](https://medium.com/@devrath.dev595/how-and-whto-use-jvmoverloads-annotation-in-kotlin-73809e7fbd50) | Medium |
-| [Defining ViewBinding initialization in the base class for reusability](https://medium.com/@devrath.dev595/defining-viewbinding-initialization-in-the-base-class-for-reusability-99ae5cb1ece7) | Medium |
-| [Creating a custom segmented seek bar like youtube](https://medium.com/@devrath.dev595/creating-a-custom-segmented-seek-bar-like-youtube-624b4ffc9f25) | Medium |
-| [Calling a legacy AsyncTask code using coroutines](https://medium.com/@devrath.dev595/calling-a-legacy-asynctask-code-using-coroutines-5ca86cfe36c7) | Medium |
-| [Higher-Order Functions in kotlin](https://medium.com/@devrath.dev595/higher-order-functions-in-kotlin-ecda7852a8f5) | Medium |
-| [Handling input stream using kotlin](https://medium.com/@devrath.dev595/handling-input-stream-using-kotlin-dbc404f03967) | Medium |
-| [An elegant way to handle recycler-view item on-click in android](https://medium.com/@devrath.dev595/an-elegant-way-to-handle-recycler-view-item-on-click-in-android-d011c95e2953) | Medium |
-| [Jetpack compose - Why?](https://medium.com/@devrath.dev595/jetpack-compose-why-e3f660f183cd) | Medium |
+* [𝚆𝚑𝚊𝚝 𝚊𝚛𝚎 𝚌𝚘-𝚛𝚘𝚞𝚝𝚒𝚗𝚎 𝚓𝚘𝚋𝚜](https://medium.com/@devrath.dev595/what-are-co-routine-jobs-6313b0abacb9)
+* [𝙷𝚘𝚠 𝚖𝚎𝚖𝚘𝚛𝚢 𝚒𝚜 𝚊𝚕𝚕𝚘𝚌𝚊𝚝𝚎𝚍 𝚊𝚗𝚍 𝚍𝚎𝚊𝚕𝚕𝚘𝚌𝚊𝚝𝚎𝚍 𝚏𝚘𝚛 𝚌𝚕𝚊𝚜𝚜𝚎𝚜 𝚊𝚗𝚍 𝚟𝚊𝚛𝚒𝚊𝚋𝚕𝚎𝚜 𝚒𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍](https://medium.com/@devrath.dev595/how-memory-is-allocated-and-deallocated-for-classes-and-variables-in-android-269d84111b15)
+* [𝚆𝚑𝚊𝚝 𝚊𝚛𝚎 𝚌𝚘-𝚛𝚘𝚞𝚝𝚒𝚗𝚎 𝚍𝚒𝚜𝚙𝚊𝚝𝚌𝚑𝚎𝚛𝚜](https://medium.com/@devrath.dev595/what-are-co-routine-dispatchers-cafd4adae800)
+* [𝚆𝚑𝚊𝚝 𝚒𝚜 𝙲𝚘-𝚁𝚘𝚞𝚝𝚒𝚗𝚎 𝚂𝚌𝚘𝚙𝚒𝚗𝚐](https://medium.com/@devrath.dev595/what-is-co-routine-scoping-792a2552d067)
+* [𝚆𝚑𝚊𝚝 𝚊𝚛𝚎 𝙲𝚘𝚛𝚘𝚞𝚝𝚒𝚗𝚎𝚜](https://medium.com/@devrath.dev595/what-are-coroutines-f85b20d4981d)
+* [𝚄𝚗𝚍𝚎𝚛𝚜𝚝𝚊𝚗𝚍𝚒𝚗𝚐 𝙲𝚘𝚗𝚝𝚎𝚡𝚝 𝚒𝚗 𝙰𝚗𝚍𝚛𝚘𝚒𝚍](https://medium.com/@devrath.dev595/understanding-context-in-android-15cbb6cc9b49)
+* [𝙴𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝙺𝚘𝚝𝚕𝚒𝚗 𝚜𝚌𝚘𝚙𝚎 𝚏𝚞𝚗𝚌𝚝𝚒𝚘𝚗𝚜](https://medium.com/@devrath.dev595/explaining-kotlin-scope-functions-277e597b6b31)
+* [𝙴𝚕𝚟𝚒𝚜 𝙾𝚙𝚎𝚛𝚊𝚝𝚘𝚛 𝚎𝚡𝚙𝚕𝚊𝚒𝚗𝚎𝚍 𝚒𝚗 𝙺𝚘𝚝𝚕𝚒𝚗](https://medium.com/@devrath.dev595/elvis-operator-explained-in-kotlin-1d1a0ebf8307)
+* [𝙷𝚘𝚠 𝚝𝚘 𝚜𝚎𝚝𝚞𝚙 𝚔𝚝𝚕𝚒𝚗𝚝 𝚏𝚘𝚛 𝚢𝚘𝚞𝚛 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚒𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍](https://medium.com/@devrath.dev595/how-to-setup-ktlint-for-your-project-in-android-ea7093ea908b)
+* [𝙷𝚘𝚠 & 𝚆𝚑𝚢 𝚝𝚘 𝚞𝚜𝚎 @𝙹𝚟𝚖𝙾𝚟𝚎𝚛𝚕𝚘𝚊𝚍𝚜 𝚊𝚗𝚗𝚘𝚝𝚊𝚝𝚒𝚘𝚗 𝚒𝚗 𝙺𝚘𝚝𝚕𝚒𝚗](https://medium.com/@devrath.dev595/how-and-whto-use-jvmoverloads-annotation-in-kotlin-73809e7fbd50)
+* [𝙳𝚎𝚏𝚒𝚗𝚒𝚗𝚐 𝚅𝚒𝚎𝚠𝙱𝚒𝚗𝚍𝚒𝚗𝚐 𝚒𝚗𝚒𝚝𝚒𝚊𝚕𝚒𝚣𝚊𝚝𝚒𝚘𝚗 𝚒𝚗 𝚝𝚑𝚎 𝚋𝚊𝚜𝚎 𝚌𝚕𝚊𝚜𝚜 𝚏𝚘𝚛 𝚛𝚎𝚞𝚜𝚊𝚋𝚒𝚕𝚒𝚝𝚢](https://medium.com/@devrath.dev595/defining-viewbinding-initialization-in-the-base-class-for-reusability-99ae5cb1ece7)
+* [𝙲𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚊 𝚌𝚞𝚜𝚝𝚘𝚖 𝚜𝚎𝚐𝚖𝚎𝚗𝚝𝚎𝚍 𝚜𝚎𝚎𝚔 𝚋𝚊𝚛 𝚕𝚒𝚔𝚎 𝚢𝚘𝚞𝚝𝚞𝚋𝚎](https://medium.com/@devrath.dev595/creating-a-custom-segmented-seek-bar-like-youtube-624b4ffc9f25)
+* [𝙲𝚊𝚕𝚕𝚒𝚗𝚐 𝚊 𝚕𝚎𝚐𝚊𝚌𝚢 𝙰𝚜𝚢𝚗𝚌𝚃𝚊𝚜𝚔 𝚌𝚘𝚍𝚎 𝚞𝚜𝚒𝚗𝚐 𝚌𝚘𝚛𝚘𝚞𝚝𝚒𝚗𝚎𝚜](https://medium.com/@devrath.dev595/calling-a-legacy-asynctask-code-using-coroutines-5ca86cfe36c7)
+* [𝙷𝚒𝚐𝚑𝚎𝚛-𝙾𝚛𝚍𝚎𝚛 𝙵𝚞𝚗𝚌𝚝𝚒𝚘𝚗𝚜 𝚒𝚗 𝚔𝚘𝚝𝚕𝚒𝚗](https://medium.com/@devrath.dev595/higher-order-functions-in-kotlin-ecda7852a8f5)
+* [𝙷𝚊𝚗𝚍𝚕𝚒𝚗𝚐 𝚒𝚗𝚙𝚞𝚝 𝚜𝚝𝚛𝚎𝚊𝚖 𝚞𝚜𝚒𝚗𝚐 𝚔𝚘𝚝𝚕𝚒𝚗](https://medium.com/@devrath.dev595/handling-input-stream-using-kotlin-dbc404f03967)
+* [𝙰𝚗 𝚎𝚕𝚎𝚐𝚊𝚗𝚝 𝚠𝚊𝚢 𝚝𝚘 𝚑𝚊𝚗𝚍𝚕𝚎 𝚛𝚎𝚌𝚢𝚌𝚕𝚎𝚛-𝚟𝚒𝚎𝚠 𝚒𝚝𝚎𝚖 𝚘𝚗-𝚌𝚕𝚒𝚌𝚔 𝚒𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍](https://medium.com/@devrath.dev595/an-elegant-way-to-handle-recycler-view-item-on-click-in-android-d011c95e2953)
+* [𝙹𝚎𝚝𝚙𝚊𝚌𝚔 𝚌𝚘𝚖𝚙𝚘𝚜𝚎 - 𝚆𝚑𝚢?](https://medium.com/@devrath.dev595/jetpack-compose-why-e3f660f183cd)
 
 <p align="center"><img src="https://github.com/devrath/devrath/blob/master/images/android-kotlin.gif" height="190" width="300"/></p>
