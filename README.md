@@ -16,14 +16,10 @@ Hi people, I'm **Devrath**. I am a passionate Software Engineer and currently Wo
 ---
 ---
 
-### Clean-Architecture-GitHub-Projects
-
-| Projects | Description |
-| --- | --- |
-| [automatic-octo-fiesta](https://github.com/devrath/automatic-octo-fiesta) | This is a collection of projects that contains all the concepts and demos on how to use testing in andoid development and wki contains the explations for the concepts used in testing  |
-| [droid-offline-application](https://github.com/devrath/droid-offline-application) | This repository contains multiple projects on how to fetch data from a remote server and at the same time cache it gracefully |
-| [iPrayForGod](https://github.com/devrath/iPrayForGod) | This is a multi module application developed using jetpack-compose which is idel for scalable applications  |
-
+### **`𝙲𝚕𝚎𝚊𝚗 𝚊𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚎 𝙶𝚒𝚝𝙷𝚞𝚋 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜`**
+* [𝚍𝚛𝚘𝚒𝚍-𝚙𝚞𝚛𝚎-𝚔𝚘𝚝𝚕𝚒𝚗-𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗](https://github.com/devrath/iPrayForGod) - 𝙼𝚞𝚕𝚝𝚒 𝚖𝚘𝚍𝚞𝚕𝚎 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚏𝚘𝚛 𝚜𝚌𝚊𝚕𝚊𝚋𝚕𝚎 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜.
+* [𝚊𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚌-𝚘𝚌𝚝𝚘-𝚏𝚒𝚎𝚜𝚝𝚊](https://github.com/devrath/automatic-octo-fiesta) - 𝙼𝚅𝚅𝙼 𝚋𝚊𝚜𝚎𝚍 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚠𝚒𝚝𝚑 𝚞𝚗𝚒𝚝 𝚝𝚎𝚜𝚝𝚒𝚗𝚐 𝚊𝚗𝚍 𝚒𝚗𝚜𝚝𝚛𝚞𝚖𝚎𝚗𝚝𝚊𝚝𝚒𝚘𝚗 𝚝𝚎𝚜𝚝𝚒𝚗𝚐.
+* [𝚍𝚛𝚘𝚒𝚍-𝚘𝚏𝚏𝚕𝚒𝚗𝚎-𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗](https://github.com/devrath/droid-offline-application) - 𝙼𝚞𝚕𝚝𝚒𝚙𝚕𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚘𝚗 𝚑𝚘𝚠 𝚝𝚘 𝚏𝚎𝚝𝚌𝚑 𝚍𝚊𝚝𝚊 𝚏𝚛𝚘𝚖 𝚊 𝚛𝚎𝚖𝚘𝚝𝚎 𝚜𝚎𝚛𝚟𝚎𝚛 𝚊𝚗𝚍 𝚊𝚝 𝚝𝚑𝚎 𝚜𝚊𝚖𝚎 𝚝𝚒𝚖𝚎 𝚌𝚊𝚌𝚑𝚎 𝚒𝚝 𝚐𝚛𝚊𝚌𝚎𝚏𝚞𝚕𝚕𝚢
 
 ### Other-GitHub-Projects
 
