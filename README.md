@@ -20,45 +20,35 @@
 * [𝚍𝚛𝚘𝚒𝚍-𝚙𝚞𝚛𝚎-𝚔𝚘𝚝𝚕𝚒𝚗-𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗](https://github.com/devrath/iPrayForGod) - 𝙼𝚞𝚕𝚝𝚒 𝚖𝚘𝚍𝚞𝚕𝚎 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚏𝚘𝚛 𝚜𝚌𝚊𝚕𝚊𝚋𝚕𝚎 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜.
 * [𝚊𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚌-𝚘𝚌𝚝𝚘-𝚏𝚒𝚎𝚜𝚝𝚊](https://github.com/devrath/automatic-octo-fiesta) - 𝙼𝚅𝚅𝙼 𝚋𝚊𝚜𝚎𝚍 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚠𝚒𝚝𝚑 𝚞𝚗𝚒𝚝 𝚝𝚎𝚜𝚝𝚒𝚗𝚐 𝚊𝚗𝚍 𝚒𝚗𝚜𝚝𝚛𝚞𝚖𝚎𝚗𝚝𝚊𝚝𝚒𝚘𝚗 𝚝𝚎𝚜𝚝𝚒𝚗𝚐.
 * [𝚍𝚛𝚘𝚒𝚍-𝚘𝚏𝚏𝚕𝚒𝚗𝚎-𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗](https://github.com/devrath/droid-offline-application) - 𝙼𝚞𝚕𝚝𝚒𝚙𝚕𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚘𝚗 𝚑𝚘𝚠 𝚝𝚘 𝚏𝚎𝚝𝚌𝚑 𝚍𝚊𝚝𝚊 𝚏𝚛𝚘𝚖 𝚊 𝚛𝚎𝚖𝚘𝚝𝚎 𝚜𝚎𝚛𝚟𝚎𝚛 & 𝚌𝚊𝚌𝚑𝚎 𝚒𝚝 𝚐𝚛𝚊𝚌𝚎𝚏𝚞𝚕𝚕𝚢.
+* [𝙳𝚛𝚘𝚒𝚍𝙽𝚘𝚝𝚎𝙰𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗](https://github.com/devrath/DroidNoteApplication) - 𝙽𝚘𝚝𝚎 𝚝𝚊𝚔𝚒𝚗𝚐 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚝𝚘 𝚜𝚊𝚟𝚎 𝚝𝚑𝚎 𝚗𝚘𝚝𝚎𝚜 𝚕𝚘𝚌𝚊𝚕𝚕𝚢 𝚊𝚗𝚍 𝚟𝚒𝚎𝚠 𝚝𝚑𝚎𝚖.
+* [𝙳𝚛𝚘𝚒𝚍𝙼𝚟𝚟𝚖𝚃𝚍𝚍](https://github.com/devrath/DroidMvvmTdd) - 𝙺𝚘𝚝𝚕𝚒𝚗 𝚃𝚎𝚜𝚝 𝚍𝚛𝚒𝚟𝚎𝚗 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝, 𝙷𝙸𝙻𝚃, 𝙴𝚜𝚙𝚛𝚎𝚜𝚜𝚘 & 𝚄𝚗𝚒𝚝 𝚃𝚎𝚜𝚝𝚒𝚗𝚐. 
+* [DroidKotlinCleanArchitecture](https://github.com/devrath/DroidKotlinCleanArchitecture) - 𝚂𝚊𝚖𝚙𝚕𝚎 𝚌𝚕𝚎𝚊𝚗 𝚊𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚎 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚍 𝚞𝚜𝚒𝚗𝚐 𝚔𝚘𝚝𝚕𝚒𝚗.
 
-### Other-GitHub-Projects
-
-| Projects | Description |
-| --- | --- |
-| [DroidKotlinCleanArchitecture](https://github.com/devrath/DroidKotlinCleanArchitecture) | By using kotlin programming language, This is a clean architecture developed to demonstrate the usage of clean code |
-| [Offline Application](https://github.com/devrath/droid-offline-application) | In this project we will call a api and get the data and display it, along with it we are caching it locally so that when your application is in offline, still we are able to display the data |
-| [DroidDi](https://github.com/devrath/DroidDi) | This project demonstrates how to use various dependency injection methodologies in android |
-| [DroidJetpack](https://github.com/devrath/DroidAndroidJetpack) | Samples demonstrating the usage of various Jetpack components in android |
-| [DroidCustomUI](https://github.com/devrath/DroidCustomUi) | This project demonstrates the use of preparing the custom UI components |
-| [DroidNoteApplication](https://github.com/devrath/DroidNoteApplication) | Here user can enter the notes and save them locally, then view the list of notes. This project is developed using clean architecture in kotlin |
-| [DroidCoroutinesUsecases](https://github.com/devrath/DroidCoroutinesUsecases) | This project contains a practical demonstration of the usage of co-routines in android. With these examples, we can use coroutines in many scenarios. It also demonstrates exception handling etc. |
-| [DroidKotlinCollectionsFlow](https://github.com/devrath/DroidKotlinCollectionsFlow) | This project explains how to use kotlin flow in android. Here with the help of MVVM architecture, we demonstrate the use of various kotlin flow operators. |
-| [SilentUpdate](https://github.com/devrath/SilentUpdate) | This application is used to perform silent update using the device owner feature |
-| [DroidKotlin](https://github.com/devrath/DroidKotlin) | Demo of various fundamental concepts in kotlin |
-| [RxJavaDemos](https://github.com/devrath/RxJavaDemos) | This project is used to demonstrate the use of RxJava with RxAndroid in Android Development. We have demonstrated the use of various operators namely creational, filter, transformation operators |
-| [glowing-interface-facts-doodle](https://github.com/devrath/glowing-interface-facts-doodle) | This project demonstrates how to the fundamental concept of oops called interface |
-| [glowing-designpatterns](https://github.com/devrath/glowing-designpatterns) | Design patterns for designing maintainable and extensible object-oriented software |
-| [fluffy-okhttp-interceptors](https://github.com/devrath/fluffy-okhttp-interceptors) | How to use okhttp interceptors for network requests, log , debug and modify them as required |
-| [android-congenial-fortnight-darktheme](https://github.com/devrath/android-congenial-fortnight-darktheme) | Supporting dark theme in pre android-10 and above versions |
-| [reimagined-kotlin-sealed-classes](https://github.com/devrath/reimagined-kotlin-sealed-classes) | This project demonstrates how to use kotlin sealed classes in android and provides documentation on the sealed classes |  
-| [didactic-di-koin](https://github.com/devrath/didactic-di-koin) | This repository describes how to implement koin in android |  
-| [verbose-room-database](https://github.com/devrath/verbose-room-database) | This repository describes how to implement room persistence library in android |  
-| [solid-kotlin-concepts](https://github.com/devrath/solid-kotlin-concepts) | Repository demonstrates various fundamentals of kotlin programming |  
-| [modularized-app-features](https://github.com/devrath/modularized-app-features) | Project describes how to set up the project using multi-module approach and nesting relevant structures based on the functionality. | 
-| [refactored-android-scoped-storage](https://github.com/devrath/refactored-android-scoped-storage) | Scoped storage came on the scene from Android 10 giving importance to users privacy. |
-| [ubiquitous-kotlin-downloadmanager](https://github.com/devrath/ubiquitous-kotlin-downloadmanager) | This repository contains the demo sample on how to use download manager to download a file from a server. |  
-| [verbose-notification-channels](https://github.com/devrath/verbose-notification-channels) | Demo on how to use notification channels on android. |
-| [literate-datastore-preferences](https://github.com/devrath/literate-datastore-preferences) | This repository describes how to use data store in a mvvm based project |
-| [hilt-multi-module-implementation](https://github.com/devrath/hilt-multi-module-implementation) | This repository demonstrates how to use hilt in a multimodule project |
-| [SegmentedSeekBar](https://github.com/devrath/SegmentedSeekBar) | This repository demonstrates how to create a custom seek-bar to showcase sections in the seek-bar |
-| [droid-octo-exoplayer](https://github.com/devrath/droid-octo-exoplayer) | This repository demonstrates how to use the ExoPlayer which is an application level media player for Android. |
-| [droid-preference-module](https://github.com/devrath/droid-preference-module) | This project demonstrates how to use shared preferences with modularity in multi module project and also migrating to data store api |
-
-| `Unit testing Demo Projects` | `Description` |
-| --- | --- |  
-| [DroidMvvmTdd](https://github.com/devrath/DroidMvvmTdd) | Android app development (Kotlin) with Clean Architecture, Test driven development, HILT, Espresso & Unit Testing |  
-| [automatic-octo-fiesta](https://github.com/devrath/automatic-octo-fiesta) | This is a collection of projects that contains all the concepts and demos on how to use testing in andoid development and wki contains the explations for the concepts used in testing  |
-  
+### **`𝙾𝚝𝚑𝚎𝚛 𝙶𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜`**
+* [𝙳𝚛𝚘𝚒𝚍𝙹𝚎𝚝𝚙𝚊𝚌𝚔](https://github.com/devrath/DroidAndroidJetpack) - 𝚂𝚊𝚖𝚙𝚕𝚎𝚜 𝚊𝚗𝚍 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐𝚜 𝚍𝚎𝚖𝚘𝚗𝚜𝚝𝚛𝚊𝚝𝚒𝚗𝚐 𝚝𝚑𝚎 𝚞𝚜𝚊𝚐𝚎 𝚘𝚏 𝚟𝚊𝚛𝚒𝚘𝚞𝚜 𝙹𝚎𝚝𝚙𝚊𝚌𝚔 𝚌𝚘𝚖𝚙𝚘𝚗𝚎𝚗𝚝𝚜.
+* [𝙳𝚛𝚘𝚒𝚍𝙲𝚞𝚜𝚝𝚘𝚖𝚄𝙸](https://github.com/devrath/DroidCustomUi) - 𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚌𝚞𝚜𝚝𝚘𝚖 𝚟𝚒𝚎𝚠 𝚐𝚛𝚘𝚞𝚙𝚜 𝚏𝚘𝚛 𝚛𝚎𝚞𝚜𝚊𝚋𝚒𝚕𝚒𝚝𝚢.
+* [𝙳𝚛𝚘𝚒𝚍𝙲𝚘𝚛𝚘𝚞𝚝𝚒𝚗𝚎𝚜𝚄𝚜𝚎𝚌𝚊𝚜𝚎𝚜](https://github.com/devrath/DroidCoroutinesUsecases) - 𝚄𝚜𝚎-𝚌𝚊𝚜𝚎𝚜 𝚊𝚗𝚍 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐𝚜 𝚏𝚘𝚛 𝚞𝚜𝚒𝚗𝚐 𝚌𝚘-𝚛𝚘𝚞𝚝𝚒𝚗𝚎𝚜. 
+* [𝚍𝚛𝚘𝚒𝚍-𝚙𝚛𝚎𝚏𝚎𝚛𝚎𝚗𝚌𝚎-𝚖𝚘𝚍𝚞𝚕𝚎](https://github.com/devrath/droid-preference-module) - 𝚄𝚜𝚊𝚐𝚎 𝚘𝚏 𝚜𝚑𝚊𝚛𝚎𝚍 𝚙𝚛𝚎𝚏𝚎𝚛𝚎𝚗𝚌𝚎 𝚠𝚒𝚝𝚑 𝚖𝚘𝚍𝚞𝚕𝚊𝚛𝚒𝚝𝚢 𝚊𝚗𝚍 𝚖𝚒𝚐𝚛𝚊𝚝𝚒𝚗𝚐 𝚝𝚘 𝚊 𝚗𝚎𝚠 𝚙𝚛𝚎𝚏𝚎𝚛𝚎𝚗𝚌𝚎 .𝚕𝚒𝚋𝚛𝚊𝚛𝚢.
+* [𝚍𝚛𝚘𝚒𝚍-𝚘𝚌𝚝𝚘-𝚎𝚡𝚘𝚙𝚕𝚊𝚢𝚎𝚛](https://github.com/devrath/droid-octo-exoplayer) - 𝙴𝚡𝚘𝚙𝚕𝚊𝚢𝚎𝚛 𝚏𝚘𝚛 𝚟𝚊𝚛𝚒𝚘𝚞𝚜 𝚞𝚜𝚎-𝚌𝚊𝚜𝚎𝚜 𝚊𝚗𝚍 𝚌𝚞𝚜𝚝𝚘𝚖𝚒𝚣𝚒𝚗𝚐 𝚝𝚑𝚎 𝚙𝚕𝚊𝚢𝚎𝚛'𝚜 𝙰𝙿𝙸.
+* [𝚂𝚎𝚐𝚖𝚎𝚗𝚝𝚎𝚍𝚂𝚎𝚎𝚔𝙱𝚊𝚛](https://github.com/devrath/SegmentedSeekBar) - 𝙲𝚞𝚜𝚝𝚘𝚖𝚒𝚣𝚒𝚗𝚐 𝚝𝚑𝚎 𝚜𝚎𝚎𝚔 𝚋𝚊𝚛 𝚏𝚘𝚛 𝚍𝚒𝚜𝚙𝚕𝚊𝚢𝚒𝚗𝚐 𝚌𝚑𝚊𝚙𝚝𝚎𝚛𝚜.
+* [𝚟𝚎𝚛𝚋𝚘𝚜𝚎-𝚗𝚘𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚒𝚘𝚗-𝚌𝚑𝚊𝚗𝚗𝚎𝚕𝚜](https://github.com/devrath/verbose-notification-channels) - 𝚅𝚊𝚛𝚒𝚘𝚞𝚜 𝚠𝚊𝚢𝚜 𝚘𝚏 𝚞𝚜𝚒𝚗𝚐 𝚗𝚘𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜.
+* [𝚛𝚎𝚏𝚊𝚌𝚝𝚘𝚛𝚎𝚍-𝚊𝚗𝚍𝚛𝚘𝚒𝚍-𝚜𝚌𝚘𝚙𝚎𝚍-𝚜𝚝𝚘𝚛𝚊𝚐𝚎](https://github.com/devrath/refactored-android-scoped-storage) - 𝚄𝚜𝚒𝚗𝚐 𝚜𝚌𝚘𝚙𝚎𝚍 𝚜𝚝𝚘𝚛𝚊𝚐𝚎 𝚒𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍.
+* [𝚐𝚕𝚘𝚠𝚒𝚗𝚐-𝚍𝚎𝚜𝚒𝚐𝚗𝚙𝚊𝚝𝚝𝚎𝚛𝚗𝚜](https://github.com/devrath/glowing-designpatterns) - 𝙳𝚎𝚜𝚒𝚐𝚗 𝚙𝚊𝚝𝚝𝚎𝚛𝚗𝚜 𝚏𝚘𝚛 𝚍𝚎𝚜𝚒𝚐𝚗𝚒𝚗𝚐 𝚖𝚊𝚒𝚗𝚝𝚊𝚒𝚗𝚊𝚋𝚕𝚎 𝚊𝚗𝚍 𝚎𝚡𝚝𝚎𝚗𝚜𝚒𝚋𝚕𝚎 𝚘𝚋𝚓𝚎𝚌𝚝-𝚘𝚛𝚒𝚎𝚗𝚝𝚎𝚍 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎.
+* [𝚞𝚋𝚒𝚚𝚞𝚒𝚝𝚘𝚞𝚜-𝚔𝚘𝚝𝚕𝚒𝚗-𝚍𝚘𝚠𝚗𝚕𝚘𝚊𝚍𝚖𝚊𝚗𝚊𝚐𝚎𝚛](https://github.com/devrath/ubiquitous-kotlin-downloadmanager) - 𝙳𝚘𝚠𝚗𝚕𝚘𝚊𝚍𝚒𝚗𝚐 𝚊 𝚏𝚒𝚕𝚎 𝚞𝚜𝚒𝚗𝚐 𝚍𝚘𝚠𝚗𝚕𝚘𝚊𝚍 𝚖𝚊𝚗𝚊𝚐𝚎𝚛 𝚒𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍.
+* [𝚊𝚗𝚍𝚛𝚘𝚒𝚍-𝚌𝚘𝚗𝚐𝚎𝚗𝚒𝚊𝚕-𝚏𝚘𝚛𝚝𝚗𝚒𝚐𝚑𝚝-𝚍𝚊𝚛𝚔𝚝𝚑𝚎𝚖𝚎](https://github.com/devrath/android-congenial-fortnight-darktheme) - 𝚂𝚞𝚙𝚙𝚘𝚛𝚝𝚒𝚗𝚐 & 𝚜𝚠𝚒𝚝𝚌𝚑𝚒𝚗𝚐 𝚋𝚎𝚝𝚠𝚎𝚎𝚗 𝚍𝚊𝚛𝚔 𝚝𝚑𝚎𝚖𝚎 𝚊𝚗𝚍 𝚕𝚒𝚐𝚑𝚝 𝚝𝚑𝚎𝚖𝚎.
+* [𝚕𝚒𝚝𝚎𝚛𝚊𝚝𝚎-𝚍𝚊𝚝𝚊𝚜𝚝𝚘𝚛𝚎-𝚙𝚛𝚎𝚏𝚎𝚛𝚎𝚗𝚌𝚎𝚜](https://github.com/devrath/literate-datastore-preferences) - 𝙸𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚒𝚗𝚐 𝚍𝚊𝚝𝚊𝚜𝚝𝚘𝚛𝚎 𝚒𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍.
+* [𝚟𝚎𝚛𝚋𝚘𝚜𝚎-𝚛𝚘𝚘𝚖-𝚍𝚊𝚝𝚊𝚋𝚊𝚜𝚎](https://github.com/devrath/verbose-room-database) - 𝙸𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚒𝚗𝚐 𝚛𝚘𝚘𝚖 𝚍𝚊𝚝𝚊𝚋𝚊𝚜𝚎 𝚒𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍.
+* [𝚍𝚒𝚍𝚊𝚌𝚝𝚒𝚌-𝚍𝚒-𝚔𝚘𝚒𝚗](https://github.com/devrath/didactic-di-koin) - 𝙸𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚒𝚗𝚐 𝚔𝚘𝚒𝚗 𝚍𝚎𝚙𝚎𝚗𝚍𝚎𝚗𝚌𝚢 𝚒𝚗𝚓𝚎𝚌𝚝𝚒𝚘𝚗 𝚒𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍.
+* [𝚜𝚘𝚕𝚒𝚍-𝚔𝚘𝚝𝚕𝚒𝚗-𝚌𝚘𝚗𝚌𝚎𝚙𝚝𝚜](https://github.com/devrath/solid-kotlin-concepts) - 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐𝚜 𝚏𝚛𝚘𝚖 𝚏𝚞𝚗𝚍𝚊𝚖𝚎𝚗𝚝𝚊𝚕 𝚌𝚘𝚗𝚌𝚎𝚙𝚝𝚜 𝚘𝚏 𝚔𝚘𝚝𝚕𝚒𝚗 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.
+* [𝚁𝚡𝙹𝚊𝚟𝚊𝙳𝚎𝚖𝚘𝚜](https://github.com/devrath/RxJavaDemos) - 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐𝚜 𝚏𝚛𝚘𝚖 𝚞𝚜𝚒𝚗𝚐 𝚁𝚡-𝙹𝚊𝚟𝚊 𝚒𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍.
+* [𝚏𝚕𝚞𝚏𝚏𝚢-𝚘𝚔𝚑𝚝𝚝𝚙-𝚒𝚗𝚝𝚎𝚛𝚌𝚎𝚙𝚝𝚘𝚛𝚜](https://github.com/devrath/fluffy-okhttp-interceptors) - 𝙳𝚒𝚏𝚏𝚎𝚛𝚎𝚗𝚝 𝚠𝚊𝚢𝚜 𝚘𝚏 𝚞𝚜𝚒𝚗𝚐 𝚘𝚔𝚑𝚝𝚝𝚙 𝚒𝚗 𝚖𝚘𝚍𝚒𝚏𝚢𝚒𝚗𝚐 𝚝𝚑𝚎 𝙷𝚃𝚃𝙿 𝚛𝚎𝚚𝚞𝚎𝚜𝚝.
+* [𝚁𝚡𝙹𝚊𝚟𝚊𝙳𝚎𝚖𝚘𝚜](https://github.com/devrath/fuzzy-reactive-kotlin) - 𝙳𝚒𝚏𝚏𝚎𝚛𝚎𝚗𝚝 𝚘𝚙𝚎𝚛𝚊𝚝𝚘𝚛𝚜 𝚞𝚜𝚎𝚍 𝚒𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍.
+* [𝚑𝚒𝚕𝚝-𝚖𝚞𝚕𝚝𝚒-𝚖𝚘𝚍𝚞𝚕𝚎-𝚒𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚊𝚝𝚒𝚘𝚗](https://github.com/devrath/hilt-multi-module-implementation) - 𝙸𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚒𝚗𝚐 𝚑𝚒𝚕𝚝 𝚒𝚗 𝚖𝚞𝚕𝚝𝚒 𝚖𝚘𝚍𝚞𝚕𝚎 𝚒𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍.
+* [𝙳𝚛𝚘𝚒𝚍𝙳𝚒](https://github.com/devrath/DroidDi) - 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐𝚜 𝚘𝚗 𝚞𝚜𝚒𝚗𝚐 𝚟𝚊𝚛𝚒𝚘𝚞𝚜 𝚍𝚎𝚙𝚎𝚗𝚍𝚎𝚗𝚌𝚢 𝚒𝚗𝚓𝚎𝚌𝚝𝚒𝚘𝚗 𝚖𝚎𝚝𝚑𝚘𝚍𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚒𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍.
+* [𝙳𝚛𝚘𝚒𝚍𝙺𝚘𝚝𝚕𝚒𝚗𝙲𝚘𝚕𝚕𝚎𝚌𝚝𝚒𝚘𝚗𝚜𝙵𝚕𝚘𝚠](https://github.com/devrath/DroidKotlinCollectionsFlow) - 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐𝚜 𝚘𝚗 𝚑𝚘𝚠 𝚝𝚘 𝚞𝚜𝚎 𝚏𝚕𝚘𝚠 𝙰𝙿𝙸 𝚒𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍.
+* [𝚛𝚎𝚒𝚖𝚊𝚐𝚒𝚗𝚎𝚍-𝚔𝚘𝚝𝚕𝚒𝚗-𝚜𝚎𝚊𝚕𝚎𝚍-𝚌𝚕𝚊𝚜𝚜𝚎𝚜](https://github.com/devrath/reimagined-kotlin-sealed-classes) - 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐𝚜 𝚘𝚗 𝚞𝚜𝚒𝚗𝚐 𝚜𝚎𝚊𝚕𝚎𝚍 𝚌𝚕𝚊𝚜𝚜𝚎𝚜 𝚒𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍.
+* [𝙳𝚛𝚘𝚒𝚍𝙺𝚘𝚝𝚕𝚒𝚗](https://github.com/devrath/DroidKotlin) - 𝙵𝚞𝚗𝚍𝚊𝚖𝚎𝚗𝚝𝚊𝚕 𝚌𝚘𝚗𝚌𝚎𝚙𝚝𝚜 𝚘𝚏 𝚔𝚘𝚝𝚕𝚒𝚗 𝚕𝚒𝚔𝚎 𝚜𝚌𝚘𝚙𝚒𝚗𝚐, 𝚎𝚡𝚌𝚎𝚙𝚝𝚒𝚘𝚗 𝚑𝚊𝚗𝚍𝚎𝚕𝚒𝚗𝚐, 𝚑𝚊𝚗𝚍𝚕𝚒𝚗𝚐 𝚌𝚘𝚛𝚘𝚞𝚝𝚒𝚗𝚎𝚜.
+* [𝚂𝚒𝚕𝚎𝚗𝚝𝚄𝚙𝚍𝚊𝚝𝚎](https://github.com/devrath/SilentUpdate) - 𝚃𝚑𝚒𝚜 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚒𝚜 𝚞𝚜𝚎𝚍 𝚝𝚘 𝚙𝚎𝚛𝚏𝚘𝚛𝚖 𝚜𝚒𝚕𝚎𝚗𝚝 𝚞𝚙𝚍𝚊𝚝𝚎 𝚞𝚜𝚒𝚗𝚐 𝚝𝚑𝚎 𝚍𝚎𝚟𝚒𝚌𝚎 𝚘𝚠𝚗𝚎𝚛 𝚏𝚎𝚊𝚝𝚞𝚛𝚎.
 
 ---
 
