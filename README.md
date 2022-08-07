@@ -2,7 +2,7 @@
 
 <img align="left" height="190" width="190" src="https://octodex.github.com/images/hula_loop_octodex03.gif"  alt="dev_logo"/>
 
-Hi people, I'm **Devrath**. I am a passionate Software Engineer and currently Working and learning **Android**. I contribute to [opensource](https://stackoverflow.com/users/1083093/devrath) and I write [articles](https://medium.com/@devrath.dev595). I am passionate about writing software that solves problems in a creative way
+𝙷𝚒 𝚙𝚎𝚘𝚙𝚕𝚎, 𝙸'𝚖 **𝙳𝚎𝚟𝚛𝚊𝚝𝚑**. 𝙸 𝚊𝚖 𝚊 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚊𝚗𝚍 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝚊𝚗𝚍 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙰𝚗𝚍𝚛𝚘𝚒𝚍**. 𝙸 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 [𝚘𝚙𝚎𝚗𝚜𝚘𝚞𝚛𝚌𝚎](https://stackoverflow.com/users/1083093/devrath) 𝚊𝚗𝚍 𝙸 𝚠𝚛𝚒𝚝𝚎 [𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝚜](https://medium.com/@devrath.dev595). 𝙸 𝚊𝚖 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 𝚠𝚛𝚒𝚝𝚒𝚗𝚐 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚝𝚑𝚊𝚝 𝚜𝚘𝚕𝚟𝚎𝚜 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜 𝚒𝚗 𝚊 𝚌𝚛𝚎𝚊𝚝𝚒𝚟𝚎 𝚠𝚊𝚢
 </br>
 
 <p align="center"><a href="https://stackoverflow.com/users/1083093/devrath"><img align="left" src="https://stackoverflow.com/users/flair/1083093.png" width="208" height="58" alt="profile for Devrath at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Devrath at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
