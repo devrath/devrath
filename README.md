@@ -6,11 +6,10 @@
 </br>
 
 <p align="center"><a href="https://stackoverflow.com/users/1083093/devrath"><img align="left" src="https://stackoverflow.com/users/flair/1083093.png" width="208" height="58" alt="profile for Devrath at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Devrath at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-<a href="https://linkedin.com/in/devrath-ad-01b59022" target="blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="devrath-ad-01b59022" /></a>
-<a href="https://medium.com/@devrath.dev595" target="blank"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="1083093" />
 </p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devrath-ad-01b59022) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@serhat.al) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://medium.com/@devrath.dev595)
   
-</br>
 </br>
 </br>
 </br>
