@@ -42,7 +42,6 @@
 * [𝚜𝚘𝚕𝚒𝚍-𝚔𝚘𝚝𝚕𝚒𝚗-𝚌𝚘𝚗𝚌𝚎𝚙𝚝𝚜](https://github.com/devrath/solid-kotlin-concepts) - 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐𝚜 𝚏𝚛𝚘𝚖 𝚏𝚞𝚗𝚍𝚊𝚖𝚎𝚗𝚝𝚊𝚕 𝚌𝚘𝚗𝚌𝚎𝚙𝚝𝚜 𝚘𝚏 𝚔𝚘𝚝𝚕𝚒𝚗 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.
 * [𝚁𝚡𝙹𝚊𝚟𝚊𝙳𝚎𝚖𝚘𝚜](https://github.com/devrath/RxJavaDemos) - 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐𝚜 𝚏𝚛𝚘𝚖 𝚞𝚜𝚒𝚗𝚐 𝚁𝚡-𝙹𝚊𝚟𝚊 𝚒𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍.
 * [𝚏𝚕𝚞𝚏𝚏𝚢-𝚘𝚔𝚑𝚝𝚝𝚙-𝚒𝚗𝚝𝚎𝚛𝚌𝚎𝚙𝚝𝚘𝚛𝚜](https://github.com/devrath/fluffy-okhttp-interceptors) - 𝙳𝚒𝚏𝚏𝚎𝚛𝚎𝚗𝚝 𝚠𝚊𝚢𝚜 𝚘𝚏 𝚞𝚜𝚒𝚗𝚐 𝚘𝚔𝚑𝚝𝚝𝚙 𝚒𝚗 𝚖𝚘𝚍𝚒𝚏𝚢𝚒𝚗𝚐 𝚝𝚑𝚎 𝙷𝚃𝚃𝙿 𝚛𝚎𝚚𝚞𝚎𝚜𝚝.
-* [𝚁𝚡𝙹𝚊𝚟𝚊𝙳𝚎𝚖𝚘𝚜](https://github.com/devrath/fuzzy-reactive-kotlin) - 𝙳𝚒𝚏𝚏𝚎𝚛𝚎𝚗𝚝 𝚘𝚙𝚎𝚛𝚊𝚝𝚘𝚛𝚜 𝚞𝚜𝚎𝚍 𝚒𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍.
 * [𝚑𝚒𝚕𝚝-𝚖𝚞𝚕𝚝𝚒-𝚖𝚘𝚍𝚞𝚕𝚎-𝚒𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚊𝚝𝚒𝚘𝚗](https://github.com/devrath/hilt-multi-module-implementation) - 𝙸𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚒𝚗𝚐 𝚑𝚒𝚕𝚝 𝚒𝚗 𝚖𝚞𝚕𝚝𝚒 𝚖𝚘𝚍𝚞𝚕𝚎 𝚒𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍.
 * [𝙳𝚛𝚘𝚒𝚍𝙳𝚒](https://github.com/devrath/DroidDi) - 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐𝚜 𝚘𝚗 𝚞𝚜𝚒𝚗𝚐 𝚟𝚊𝚛𝚒𝚘𝚞𝚜 𝚍𝚎𝚙𝚎𝚗𝚍𝚎𝚗𝚌𝚢 𝚒𝚗𝚓𝚎𝚌𝚝𝚒𝚘𝚗 𝚖𝚎𝚝𝚑𝚘𝚍𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚒𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍.
 * [𝙳𝚛𝚘𝚒𝚍𝙺𝚘𝚝𝚕𝚒𝚗𝙲𝚘𝚕𝚕𝚎𝚌𝚝𝚒𝚘𝚗𝚜𝙵𝚕𝚘𝚠](https://github.com/devrath/DroidKotlinCollectionsFlow) - 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐𝚜 𝚘𝚗 𝚑𝚘𝚠 𝚝𝚘 𝚞𝚜𝚎 𝚏𝚕𝚘𝚠 𝙰𝙿𝙸 𝚒𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍.
