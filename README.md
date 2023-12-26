@@ -30,9 +30,9 @@
 
 
 ### **`𝙾𝚝𝚑𝚎𝚛 𝙶𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜`**
+* [𝙳𝚛𝚘𝚒𝚍𝙰𝚗𝚍𝚛𝚘𝚒𝚍𝙺𝚘𝚝𝚕𝚒𝚗𝚆𝚒𝚔𝚒](https://github.com/devrath/DroidAndroidKotlinWiki) - 𝚄𝚜𝚎-𝚌𝚊𝚜𝚎𝚜 𝚊𝚗𝚍 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐𝚜 𝚏𝚘𝚛 𝚞𝚜𝚒𝚗𝚐 𝚌𝚘-𝚛𝚘𝚞𝚝𝚒𝚗𝚎𝚜. 
 * [𝙳𝚛𝚘𝚒𝚍𝙹𝚎𝚝𝚙𝚊𝚌𝚔](https://github.com/devrath/DroidAndroidJetpack) - 𝚂𝚊𝚖𝚙𝚕𝚎𝚜 𝚊𝚗𝚍 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐𝚜 𝚍𝚎𝚖𝚘𝚗𝚜𝚝𝚛𝚊𝚝𝚒𝚗𝚐 𝚝𝚑𝚎 𝚞𝚜𝚊𝚐𝚎 𝚘𝚏 𝚟𝚊𝚛𝚒𝚘𝚞𝚜 𝙹𝚎𝚝𝚙𝚊𝚌𝚔 𝚌𝚘𝚖𝚙𝚘𝚗𝚎𝚗𝚝𝚜.
 * [𝙳𝚛𝚘𝚒𝚍𝙲𝚞𝚜𝚝𝚘𝚖𝚄𝙸](https://github.com/devrath/DroidCustomUi) - 𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚌𝚞𝚜𝚝𝚘𝚖 𝚟𝚒𝚎𝚠 𝚐𝚛𝚘𝚞𝚙𝚜 𝚏𝚘𝚛 𝚛𝚎𝚞𝚜𝚊𝚋𝚒𝚕𝚒𝚝𝚢.
-* [𝙳𝚛𝚘𝚒𝚍𝙰𝚗𝚍𝚛𝚘𝚒𝚍𝙺𝚘𝚝𝚕𝚒𝚗𝚆𝚒𝚔𝚒](https://github.com/devrath/DroidAndroidKotlinWiki) - 𝚄𝚜𝚎-𝚌𝚊𝚜𝚎𝚜 𝚊𝚗𝚍 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐𝚜 𝚏𝚘𝚛 𝚞𝚜𝚒𝚗𝚐 𝚌𝚘-𝚛𝚘𝚞𝚝𝚒𝚗𝚎𝚜. 
 * [𝚍𝚛𝚘𝚒𝚍-𝚙𝚛𝚎𝚏𝚎𝚛𝚎𝚗𝚌𝚎-𝚖𝚘𝚍𝚞𝚕𝚎](https://github.com/devrath/droid-preference-module) - 𝚄𝚜𝚊𝚐𝚎 𝚘𝚏 𝚜𝚑𝚊𝚛𝚎𝚍 𝚙𝚛𝚎𝚏𝚎𝚛𝚎𝚗𝚌𝚎 𝚠𝚒𝚝𝚑 𝚖𝚘𝚍𝚞𝚕𝚊𝚛𝚒𝚝𝚢 𝚊𝚗𝚍 𝚖𝚒𝚐𝚛𝚊𝚝𝚒𝚗𝚐 𝚝𝚘 𝚊 𝚗𝚎𝚠 𝚙𝚛𝚎𝚏𝚎𝚛𝚎𝚗𝚌𝚎 .𝚕𝚒𝚋𝚛𝚊𝚛𝚢.
 * [𝚍𝚛𝚘𝚒𝚍-𝚘𝚌𝚝𝚘-𝚎𝚡𝚘𝚙𝚕𝚊𝚢𝚎𝚛](https://github.com/devrath/droid-octo-exoplayer) - 𝙴𝚡𝚘𝚙𝚕𝚊𝚢𝚎𝚛 𝚏𝚘𝚛 𝚟𝚊𝚛𝚒𝚘𝚞𝚜 𝚞𝚜𝚎-𝚌𝚊𝚜𝚎𝚜 𝚊𝚗𝚍 𝚌𝚞𝚜𝚝𝚘𝚖𝚒𝚣𝚒𝚗𝚐 𝚝𝚑𝚎 𝚙𝚕𝚊𝚢𝚎𝚛'𝚜 𝙰𝙿𝙸.
 * [𝚂𝚎𝚐𝚖𝚎𝚗𝚝𝚎𝚍𝚂𝚎𝚎𝚔𝙱𝚊𝚛](https://github.com/devrath/SegmentedSeekBar) - 𝙲𝚞𝚜𝚝𝚘𝚖𝚒𝚣𝚒𝚗𝚐 𝚝𝚑𝚎 𝚜𝚎𝚎𝚔 𝚋𝚊𝚛 𝚏𝚘𝚛 𝚍𝚒𝚜𝚙𝚕𝚊𝚢𝚒𝚗𝚐 𝚌𝚑𝚊𝚙𝚝𝚎𝚛𝚜.
