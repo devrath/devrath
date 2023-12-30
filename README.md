@@ -30,10 +30,10 @@
 
 
 ### **`𝙾𝚝𝚑𝚎𝚛 𝙶𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜`**
-* [𝙳𝚛𝚘𝚒𝚍𝙰𝚗𝚍𝚛𝚘𝚒𝚍𝙺𝚘𝚝𝚕𝚒𝚗𝚆𝚒𝚔𝚒](https://github.com/devrath/DroidAndroidKotlinWiki) - 𝚄𝚜𝚎-𝚌𝚊𝚜𝚎𝚜 𝚊𝚗𝚍 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐𝚜 𝚏𝚘𝚛 𝚞𝚜𝚒𝚗𝚐 𝚌𝚘-𝚛𝚘𝚞𝚝𝚒𝚗𝚎𝚜.
+* [𝙺𝚘𝚝𝚕𝚒𝚗𝙰𝚕𝚌𝚑𝚎𝚖𝚢](https://github.com/devrath/KotlinAlchemy) - 𝚃𝚑𝚒𝚜 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚌𝚘𝚗𝚝𝚊𝚒𝚗𝚜 𝚟𝚊𝚛𝚒𝚘𝚞𝚜 𝚌𝚘𝚗𝚌𝚎𝚙𝚝𝚜 𝚊𝚗𝚍 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐𝚜 𝚘𝚏 𝚔𝚘𝚝𝚕𝚒𝚗 𝚞𝚜𝚎𝚍 𝚏𝚘𝚛 𝚊𝚗𝚍𝚛𝚘𝚒𝚍 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.
 * [𝙳𝚛𝚘𝚒𝚍𝙳𝚒](https://github.com/devrath/DroidDi) - 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐𝚜 𝚘𝚗 𝚞𝚜𝚒𝚗𝚐 𝚟𝚊𝚛𝚒𝚘𝚞𝚜 𝚍𝚎𝚙𝚎𝚗𝚍𝚎𝚗𝚌𝚢 𝚒𝚗𝚓𝚎𝚌𝚝𝚒𝚘𝚗 𝚖𝚎𝚝𝚑𝚘𝚍𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚒𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍.
 * [𝚟𝚎𝚛𝚋𝚘𝚜𝚎-𝚗𝚘𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚒𝚘𝚗-𝚌𝚑𝚊𝚗𝚗𝚎𝚕𝚜](https://github.com/devrath/verbose-notification-channels) - 𝚅𝚊𝚛𝚒𝚘𝚞𝚜 𝚠𝚊𝚢𝚜 𝚘𝚏 𝚞𝚜𝚒𝚗𝚐 𝚗𝚘𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜.
-* [𝙺𝚘𝚝𝚕𝚒𝚗𝙰𝚕𝚌𝚑𝚎𝚖𝚢](https://github.com/devrath/KotlinAlchemy) - 𝚃𝚑𝚒𝚜 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚍𝚎𝚖𝚘𝚗𝚜𝚝𝚛𝚊𝚝𝚎𝚜 𝚝𝚑𝚎 𝚞𝚜𝚎 𝚘𝚏 𝚁𝚎𝚊𝚌𝚝𝚒𝚟𝚎𝚇 𝚠𝚒𝚝𝚑 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.
+* [𝚁𝚡𝙺𝚘𝚝𝚕𝚒𝚗𝚆𝚒𝚔𝚒](https://github.com/devrath/RxKotlinWiki) - 𝚃𝚑𝚒𝚜 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚍𝚎𝚖𝚘𝚗𝚜𝚝𝚛𝚊𝚝𝚎𝚜 𝚝𝚑𝚎 𝚞𝚜𝚎 𝚘𝚏 𝚁𝚎𝚊𝚌𝚝𝚒𝚟𝚎𝚇 𝚠𝚒𝚝𝚑 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.
 * [𝚍𝚛𝚘𝚒𝚍-𝚍𝚊𝚛𝚔-𝚕𝚒𝚐𝚑𝚝-𝚖𝚘𝚍𝚎](https://github.com/devrath/droid-dark-light-mode/tree/main) - 𝚂𝚞𝚙𝚙𝚘𝚛𝚝𝚒𝚗𝚐 & 𝚜𝚠𝚒𝚝𝚌𝚑𝚒𝚗𝚐 𝚋𝚎𝚝𝚠𝚎𝚎𝚗 𝚍𝚊𝚛𝚔 𝚝𝚑𝚎𝚖𝚎 𝚊𝚗𝚍 𝚕𝚒𝚐𝚑𝚝 𝚝𝚑𝚎𝚖𝚎.
 * [𝚞𝚋𝚒𝚚𝚞𝚒𝚝𝚘𝚞𝚜-𝚔𝚘𝚝𝚕𝚒𝚗-𝚍𝚘𝚠𝚗𝚕𝚘𝚊𝚍𝚖𝚊𝚗𝚊𝚐𝚎𝚛](https://github.com/devrath/ubiquitous-kotlin-downloadmanager) - 𝙳𝚘𝚠𝚗𝚕𝚘𝚊𝚍𝚒𝚗𝚐 𝚊 𝚏𝚒𝚕𝚎 𝚞𝚜𝚒𝚗𝚐 𝚍𝚘𝚠𝚗𝚕𝚘𝚊𝚍 𝚖𝚊𝚗𝚊𝚐𝚎𝚛 𝚒𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍.
 * [𝙳𝚛𝚘𝚒𝚍𝙳𝚋𝚂𝚝𝚘𝚛𝚊𝚐𝚎](https://github.com/devrath/DroidDbStorage) - 𝙸𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚒𝚗𝚐 𝚕𝚘𝚌𝚊𝚕 𝚍𝚊𝚝𝚊𝚋𝚊𝚜𝚎 𝚒𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍.
