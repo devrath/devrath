@@ -9,10 +9,12 @@
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devrath-ad-01b59022) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@devrath.dev595) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1083093/devrath)
-  
+
 </br>
-</br>
-</br>
+<br/> 
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
 </br>
 
 ### **`𝙲𝚕𝚎𝚊𝚗 𝚊𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚎 𝙶𝚒𝚝𝙷𝚞𝚋 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜`**
