@@ -10,7 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devrath-ad-01b59022) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@devrath.dev595) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1083093/devrath)
 
-</br>
 <br/> 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
@@ -41,6 +40,7 @@
 * [𝙳𝚛𝚘𝚒𝚍𝙳𝚋𝚂𝚝𝚘𝚛𝚊𝚐𝚎](https://github.com/devrath/DroidDbStorage) - 𝙸𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚒𝚗𝚐 𝚕𝚘𝚌𝚊𝚕 𝚍𝚊𝚝𝚊𝚋𝚊𝚜𝚎 𝚒𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍.
 * [𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕-𝟹-𝙳𝚎𝚜𝚒𝚐𝚗-𝙺𝚒𝚝](https://github.com/devrath/Material-3-Design-Kit) - 𝚃𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢 𝚌𝚘𝚗𝚝𝚊𝚒𝚗𝚜 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗 𝚊𝚗𝚍 𝚌𝚘𝚍𝚎 𝚜𝚊𝚖𝚙𝚕𝚎𝚜 𝚛𝚎𝚐𝚊𝚛𝚍𝚒𝚗𝚐 𝚝𝚑𝚎 𝚖𝚊𝚝𝚎𝚛𝚒𝚊𝚕-𝟹 𝚍𝚎𝚜𝚒𝚐𝚗 𝚒𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚎𝚍 𝚋𝚢 𝚐𝚘𝚘𝚐𝚕𝚎
 * [𝚂𝙾𝙻𝙸𝙳-𝙿𝚛𝚒𝚗𝚌𝚒𝚙𝚕𝚎𝚜](https://github.com/devrath/SOLID-Principles) - 𝙿𝚛𝚒𝚗𝚌𝚒𝚙𝚕𝚎𝚜 𝚋𝚢 𝚁𝚘𝚋𝚎𝚛𝚝 𝙲 𝙼𝚊𝚛𝚝𝚒𝚗 𝚞𝚜𝚎𝚍 𝚝𝚘 𝚠𝚛𝚒𝚝𝚎 𝚊 𝚐𝚘𝚘𝚍 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚜𝚢𝚜𝚝𝚎𝚖.
+* [𝚊𝚗𝚍𝚛𝚘𝚒𝚍-𝚏𝚘𝚛𝚎𝚐𝚛𝚘𝚞𝚗𝚍-𝚜𝚎𝚛𝚟𝚒𝚌𝚎](https://github.com/devrath/android-foreground-service) - 𝙵𝚘𝚛𝚎𝚐𝚛𝚘𝚞𝚗𝚍 𝚜𝚎𝚛𝚟𝚒𝚌𝚎 𝚝𝚘 𝚛𝚞𝚗 𝚊𝚗 𝚒𝚗𝚏𝚒𝚗𝚒𝚝𝚎 𝚝𝚊𝚜𝚔 𝚒𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍
 * [𝙳𝚛𝚘𝚒𝚍𝙹𝚎𝚝𝚙𝚊𝚌𝚔](https://github.com/devrath/DroidAndroidJetpack) - 𝚂𝚊𝚖𝚙𝚕𝚎𝚜 𝚊𝚗𝚍 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐𝚜 𝚍𝚎𝚖𝚘𝚗𝚜𝚝𝚛𝚊𝚝𝚒𝚗𝚐 𝚝𝚑𝚎 𝚞𝚜𝚊𝚐𝚎 𝚘𝚏 𝚟𝚊𝚛𝚒𝚘𝚞𝚜 𝙹𝚎𝚝𝚙𝚊𝚌𝚔 𝚌𝚘𝚖𝚙𝚘𝚗𝚎𝚗𝚝𝚜.
 * [𝚍𝚛𝚘𝚒𝚍-𝚘𝚌𝚝𝚘-𝚎𝚡𝚘𝚙𝚕𝚊𝚢𝚎𝚛](https://github.com/devrath/droid-octo-exoplayer) - 𝙴𝚡𝚘𝚙𝚕𝚊𝚢𝚎𝚛 𝚏𝚘𝚛 𝚟𝚊𝚛𝚒𝚘𝚞𝚜 𝚞𝚜𝚎-𝚌𝚊𝚜𝚎𝚜 𝚊𝚗𝚍 𝚌𝚞𝚜𝚝𝚘𝚖𝚒𝚣𝚒𝚗𝚐 𝚝𝚑𝚎 𝚙𝚕𝚊𝚢𝚎𝚛'𝚜 𝙰𝙿𝙸.
 * [𝚂𝚎𝚐𝚖𝚎𝚗𝚝𝚎𝚍𝚂𝚎𝚎𝚔𝙱𝚊𝚛](https://github.com/devrath/SegmentedSeekBar) - 𝙲𝚞𝚜𝚝𝚘𝚖𝚒𝚣𝚒𝚗𝚐 𝚝𝚑𝚎 𝚜𝚎𝚎𝚔 𝚋𝚊𝚛 𝚏𝚘𝚛 𝚍𝚒𝚜𝚙𝚕𝚊𝚢𝚒𝚗𝚐 𝚌𝚑𝚊𝚙𝚝𝚎𝚛𝚜.
